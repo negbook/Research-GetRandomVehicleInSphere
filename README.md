@@ -1,5 +1,5 @@
 # Research-GetRandomVehicleInSphere  
-GetRandomVehicleInSphere get no train no trailers
+GetRandomVehicleInSphere may not get train no trailers (maybe)
 
 Class                       Flags  
 14 15                       :-1  
