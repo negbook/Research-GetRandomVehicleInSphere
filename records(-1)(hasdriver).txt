@@ -1,0 +1,69 @@
+Version 1 30 Research Title : GetRandomVehicleInSphere flags results By Negbook
+Total:5 Flags:-1 
+{
+	Item
+	{
+		displaynamefrommodel ANNIHL
+		classfromname 15
+		class 15
+		isenginerunning 0
+		model 837858166
+		isempty 1
+		type 2
+		poptype 7
+	}
+	Item
+	{
+		displaynamefrommodel POLMAV
+		classfromname 15
+		class 15
+		isenginerunning 0
+		model 353883353
+		isempty 1
+		type 2
+		poptype 7
+	}
+	Item
+	{
+		displaynamefrommodel PREDATOR
+		classfromname 14
+		class 14
+		isenginerunning 1
+		model -488123221
+		isempty 1
+		type 2
+		poptype 7
+	}
+	Item
+	{
+		displaynamefrommodel VALKYRIE
+		classfromname 15
+		class 15
+		isenginerunning 0
+		model -1600252419
+		isempty 1
+		type 2
+		poptype 7
+	}
+	Item
+	{
+		displaynamefrommodel VALKYRI2
+		classfromname 15
+		class 15
+		isenginerunning 0
+		model 1543134283
+		isempty 1
+		type 2
+		poptype 7
+	}
+}
+Total 5:
+type(2):5
+class(14):1
+class(15):4
+classfromname(14):1
+classfromname(15):4
+isempty(1):5
+isenginerunning(1):1
+isenginerunning(0):4
+poptype(7):5
