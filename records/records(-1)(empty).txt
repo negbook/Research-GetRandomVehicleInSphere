@@ -1,0 +1,125 @@
+Version 1 30 Research Title : GetRandomVehicleInSphere flags results By Negbook
+Total:5 Flags:-1 
+{
+	Item
+	{
+		displaynamefrommodel ANNIHL
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		IsThisModelAJetski 0
+		isempty 1
+		IsThisModelATrain 0
+		IsThisModelAQuadbike 0
+		type 2
+		IsThisModelACar 0
+		IsThisModelABoat 0
+		classfromname 15
+		IsThisModelABicycle 0
+		IsThisModelAHeli 1
+		IsThisModelAnAmphibiousCar 0
+		model 837858166
+		IsThisModelABike 0
+		class 15
+		IsThisModelAPlane 0
+	}
+	Item
+	{
+		displaynamefrommodel POLMAV
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		IsThisModelAJetski 0
+		isempty 1
+		IsThisModelATrain 0
+		IsThisModelAQuadbike 0
+		type 2
+		IsThisModelACar 0
+		IsThisModelABoat 0
+		classfromname 15
+		IsThisModelABicycle 0
+		IsThisModelAHeli 1
+		IsThisModelAnAmphibiousCar 0
+		model 353883353
+		IsThisModelABike 0
+		class 15
+		IsThisModelAPlane 0
+	}
+	Item
+	{
+		displaynamefrommodel PREDATOR
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 1
+		IsThisModelAJetski 0
+		isempty 1
+		IsThisModelATrain 0
+		IsThisModelAQuadbike 0
+		type 2
+		IsThisModelACar 0
+		IsThisModelABoat 1
+		classfromname 14
+		IsThisModelABicycle 0
+		IsThisModelAHeli 0
+		IsThisModelAnAmphibiousCar 0
+		model -488123221
+		IsThisModelABike 0
+		class 14
+		IsThisModelAPlane 0
+	}
+	Item
+	{
+		displaynamefrommodel VALKYRIE
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		IsThisModelAJetski 0
+		isempty 1
+		IsThisModelATrain 0
+		IsThisModelAQuadbike 0
+		type 2
+		IsThisModelACar 0
+		IsThisModelABoat 0
+		classfromname 15
+		IsThisModelABicycle 0
+		IsThisModelAHeli 1
+		IsThisModelAnAmphibiousCar 0
+		model -1600252419
+		IsThisModelABike 0
+		class 15
+		IsThisModelAPlane 0
+	}
+	Item
+	{
+		displaynamefrommodel VALKYRI2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		IsThisModelAJetski 0
+		isempty 1
+		IsThisModelATrain 0
+		IsThisModelAQuadbike 0
+		type 2
+		IsThisModelACar 0
+		IsThisModelABoat 0
+		classfromname 15
+		IsThisModelABicycle 0
+		IsThisModelAHeli 1
+		IsThisModelAnAmphibiousCar 0
+		model 1543134283
+		IsThisModelABike 0
+		class 15
+		IsThisModelAPlane 0
+	}
+}
+Total 5:
+IsThisModelABoat(1):1
+type(2):5
+poptype(7):5
+classfromname(14):1
+classfromname(15):4
+class(14):1
+class(15):4
+isempty(1):5
+IsThisModelAHeli(1):4
+isenginerunning(1):1
