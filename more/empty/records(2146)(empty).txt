@@ -1,0 +1,4896 @@
+Version 1 30 Research Title : GetRandomVehicleInSphere flags results By Negbook
+Total:441 Flags:2146 
+{
+	Item
+	{
+		poptype 7
+		displaynamefrommodel NINEF
+		class 6
+		classfromname 6
+		isempty 1
+		model 1032823388
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel NINEF2
+		class 6
+		classfromname 6
+		isempty 1
+		model -1461482751
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BLISTA
+		class 0
+		classfromname 0
+		isempty 1
+		model -344943009
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ASEA
+		class 1
+		classfromname 1
+		isempty 1
+		model -1809822327
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ASEA
+		class 1
+		classfromname 1
+		isempty 1
+		model -1807623979
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BUS
+		class 17
+		classfromname 17
+		isempty 1
+		model -713569950
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel COACH
+		class 17
+		classfromname 17
+		isempty 1
+		model -2072933068
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel AIRBUS
+		class 17
+		classfromname 17
+		isempty 1
+		model 1283517198
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ASTROPE
+		class 1
+		classfromname 1
+		isempty 1
+		model -1903012613
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel AIRTUG
+		class 11
+		classfromname 11
+		isempty 1
+		model 1560980623
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel AMBULAN
+		class 18
+		classfromname 18
+		isempty 1
+		model 1171614426
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BARRACKS
+		class 19
+		classfromname 19
+		isempty 1
+		model -823509173
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BARRACKS2
+		class 19
+		classfromname 19
+		isempty 1
+		model 1074326203
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BALLER
+		class 2
+		classfromname 2
+		isempty 1
+		model -808831384
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BALLER2
+		class 2
+		classfromname 2
+		isempty 1
+		model 142944341
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BJXL
+		class 2
+		classfromname 2
+		isempty 1
+		model 850565707
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BANSHEE
+		class 6
+		classfromname 6
+		isempty 1
+		model -1041692462
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BENSON
+		class 20
+		classfromname 20
+		isempty 1
+		model 2053223216
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BFINJECT
+		class 9
+		classfromname 9
+		isempty 1
+		model 1126868326
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BIFF
+		class 20
+		classfromname 20
+		isempty 1
+		model 850991848
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BLAZER
+		class 9
+		classfromname 9
+		isempty 1
+		model -2128233223
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BLAZER2
+		class 9
+		classfromname 9
+		isempty 1
+		model -48031959
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BLAZER03
+		class 9
+		classfromname 9
+		isempty 1
+		model -1269889662
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BISON
+		class 12
+		classfromname 12
+		isempty 1
+		model -16948145
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BISON
+		class 12
+		classfromname 12
+		isempty 1
+		model 2072156101
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BISON
+		class 12
+		classfromname 12
+		isempty 1
+		model 1739845664
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BOXVILLE
+		class 12
+		classfromname 12
+		isempty 1
+		model -1987130134
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BOXVILLE
+		class 12
+		classfromname 12
+		isempty 1
+		model -233098306
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BOXVILLE
+		class 12
+		classfromname 12
+		isempty 1
+		model 121658888
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BOBCATXL
+		class 12
+		classfromname 12
+		isempty 1
+		model 1069929536
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BODHI2
+		class 9
+		classfromname 9
+		isempty 1
+		model -1435919434
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BUCCANEE
+		class 4
+		classfromname 4
+		isempty 1
+		model -682211828
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BUFFALO
+		class 6
+		classfromname 6
+		isempty 1
+		model -304802106
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BUFFALO02
+		class 6
+		classfromname 6
+		isempty 1
+		model 736902334
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BULLDOZE
+		class 10
+		classfromname 10
+		isempty 1
+		model 1886712733
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BULLET
+		class 7
+		classfromname 7
+		isempty 1
+		model -1696146015
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BURRITO
+		class 12
+		classfromname 12
+		isempty 1
+		model -1346687836
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BURRITO
+		class 12
+		classfromname 12
+		isempty 1
+		model -907477130
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BURRITO
+		class 12
+		classfromname 12
+		isempty 1
+		model -1743316013
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BURRITO
+		class 12
+		classfromname 12
+		isempty 1
+		model 893081117
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BURRITO
+		class 12
+		classfromname 12
+		isempty 1
+		model 1132262048
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CAVCADE
+		class 2
+		classfromname 2
+		isempty 1
+		model 2006918058
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CAVCADE
+		class 2
+		classfromname 2
+		isempty 1
+		model -789894171
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel GBURRITO
+		class 12
+		classfromname 12
+		isempty 1
+		model -1745203402
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CADDY
+		class 11
+		classfromname 11
+		isempty 1
+		model 1147287684
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CADDY
+		class 11
+		classfromname 11
+		isempty 1
+		model -537896628
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CAMPER
+		class 12
+		classfromname 12
+		isempty 1
+		model 1876516712
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CARBONIZ
+		class 6
+		classfromname 6
+		isempty 1
+		model 2072687711
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CHEETAH
+		class 7
+		classfromname 7
+		isempty 1
+		model -1311154784
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel COMET2
+		class 6
+		classfromname 6
+		isempty 1
+		model -1045541610
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel COGCABRI
+		class 3
+		classfromname 3
+		isempty 1
+		model 330661258
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel COQUETTE
+		class 6
+		classfromname 6
+		isempty 1
+		model 108773431
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CUTTER
+		class 10
+		classfromname 10
+		isempty 1
+		model -1006919392
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel GRESLEY
+		class 2
+		classfromname 2
+		isempty 1
+		model -1543762099
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DILETTAN
+		class 0
+		classfromname 0
+		isempty 1
+		model -1130810103
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DILETTAN
+		class 0
+		classfromname 0
+		isempty 1
+		model 1682114128
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DUNE
+		class 9
+		classfromname 9
+		isempty 1
+		model -1661854193
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DUNE2
+		class 9
+		classfromname 9
+		isempty 1
+		model 534258863
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel HOTKNIFE
+		class 4
+		classfromname 4
+		isempty 1
+		model 37348240
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DLOADER
+		class 9
+		classfromname 9
+		isempty 1
+		model 1770332643
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DUBSTA
+		class 2
+		classfromname 2
+		isempty 1
+		model 1177543287
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DUBSTA
+		class 2
+		classfromname 2
+		isempty 1
+		model -394074634
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DUMP
+		class 10
+		classfromname 10
+		isempty 1
+		model -2130482718
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RUBBLE
+		class 10
+		classfromname 10
+		isempty 1
+		model -1705304628
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DOCKTUG
+		class 11
+		classfromname 11
+		isempty 1
+		model -884690486
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DOMINATO
+		class 4
+		classfromname 4
+		isempty 1
+		model 80636076
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel EMPEROR
+		class 1
+		classfromname 1
+		isempty 1
+		model -685276541
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel EMPEROR
+		class 1
+		classfromname 1
+		isempty 1
+		model -1883002148
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel EMPEROR
+		class 1
+		classfromname 1
+		isempty 1
+		model -1241712818
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ENTITYXF
+		class 7
+		classfromname 7
+		isempty 1
+		model -1291952903
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel EXEMPLAR
+		class 3
+		classfromname 3
+		isempty 1
+		model -5153954
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ELEGY2
+		class 6
+		classfromname 6
+		isempty 1
+		model -566387422
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel F620
+		class 3
+		classfromname 3
+		isempty 1
+		model -591610296
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FELON
+		class 3
+		classfromname 3
+		isempty 1
+		model -391594584
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FELON2
+		class 3
+		classfromname 3
+		isempty 1
+		model -89291282
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FELTZER
+		class 6
+		classfromname 6
+		isempty 1
+		model -1995326987
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FIRETRUK
+		class 18
+		classfromname 18
+		isempty 1
+		model 1938952078
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FLATBED
+		class 10
+		classfromname 10
+		isempty 1
+		model 1353720154
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FORK
+		class 11
+		classfromname 11
+		isempty 1
+		model 1491375716
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FQ2
+		class 2
+		classfromname 2
+		isempty 1
+		model -1137532101
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FUSILADE
+		class 6
+		classfromname 6
+		isempty 1
+		model 499169875
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FUGITIVE
+		class 1
+		classfromname 1
+		isempty 1
+		model 1909141499
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FUTO
+		class 6
+		classfromname 6
+		isempty 1
+		model 2016857647
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel GRANGER
+		class 2
+		classfromname 2
+		isempty 1
+		model -1775728740
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel GAUNTLET
+		class 4
+		classfromname 4
+		isempty 1
+		model -1800170043
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel HABANERO
+		class 2
+		classfromname 2
+		isempty 1
+		model 884422927
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel HAULER
+		class 20
+		classfromname 20
+		isempty 1
+		model 1518533038
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel HANDLER
+		class 10
+		classfromname 10
+		isempty 1
+		model 444583674
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel INFERNUS
+		class 7
+		classfromname 7
+		isempty 1
+		model 418536135
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel INGOT
+		class 1
+		classfromname 1
+		isempty 1
+		model -1289722222
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel INTRUDER
+		class 1
+		classfromname 1
+		isempty 1
+		model 886934177
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ISSI2
+		class 0
+		classfromname 0
+		isempty 1
+		model -1177863319
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel JACKAL
+		class 3
+		classfromname 3
+		isempty 1
+		model -624529134
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel JOURNEY
+		class 12
+		classfromname 12
+		isempty 1
+		model -120287622
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel JB700
+		class 5
+		classfromname 5
+		isempty 1
+		model 1051415893
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel KHAMEL
+		class 6
+		classfromname 6
+		isempty 1
+		model 544021352
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel LANDSTAL
+		class 2
+		classfromname 2
+		isempty 1
+		model 1269098716
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel LGUARD
+		class 18
+		classfromname 18
+		isempty 1
+		model 469291905
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MANANA
+		class 5
+		classfromname 5
+		isempty 1
+		model -2124201592
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MESA
+		class 2
+		classfromname 2
+		isempty 1
+		model 914654722
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MESA
+		class 2
+		classfromname 2
+		isempty 1
+		model -748008636
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MESA
+		class 9
+		classfromname 9
+		isempty 1
+		model -2064372143
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MINIVAN
+		class 12
+		classfromname 12
+		isempty 1
+		model -310465116
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MIXER
+		class 10
+		classfromname 10
+		isempty 1
+		model -784816453
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MIXER2
+		class 10
+		classfromname 10
+		isempty 1
+		model 475220373
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MONROE
+		class 5
+		classfromname 5
+		isempty 1
+		model -433375717
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MOWER
+		class 11
+		classfromname 11
+		isempty 1
+		model 1783355638
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MULE
+		class 20
+		classfromname 20
+		isempty 1
+		model 904750859
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MULE
+		class 20
+		classfromname 20
+		isempty 1
+		model -1050465301
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ORACLE2
+		class 3
+		classfromname 3
+		isempty 1
+		model 1348744438
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ORACLE
+		class 3
+		classfromname 3
+		isempty 1
+		model -511601230
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PACKER
+		class 20
+		classfromname 20
+		isempty 1
+		model 569305213
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PATRIOT
+		class 2
+		classfromname 2
+		isempty 1
+		model -808457413
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PBUS
+		class 18
+		classfromname 18
+		isempty 1
+		model -2007026063
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PENUMBRA
+		class 6
+		classfromname 6
+		isempty 1
+		model -377465520
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PEYOTE
+		class 5
+		classfromname 5
+		isempty 1
+		model 1830407356
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PHANTOM
+		class 20
+		classfromname 20
+		isempty 1
+		model -2137348917
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PHOENIX
+		class 4
+		classfromname 4
+		isempty 1
+		model -2095439403
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PICADOR
+		class 4
+		classfromname 4
+		isempty 1
+		model 1507916787
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel POUNDER
+		class 20
+		classfromname 20
+		isempty 1
+		model 2112052861
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PONY
+		class 12
+		classfromname 12
+		isempty 1
+		model -119658072
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PONY
+		class 12
+		classfromname 12
+		isempty 1
+		model 943752001
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PRAIRIE
+		class 0
+		classfromname 0
+		isempty 1
+		model -1450650718
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PREMIER
+		class 1
+		classfromname 1
+		isempty 1
+		model -1883869285
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PRIMO
+		class 1
+		classfromname 1
+		isempty 1
+		model -1150599089
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RANCHERX
+		class 9
+		classfromname 9
+		isempty 1
+		model 1645267888
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RANCHERX
+		class 9
+		classfromname 9
+		isempty 1
+		model 1933662059
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RAPIDGT
+		class 6
+		classfromname 6
+		isempty 1
+		model -1934452204
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RAPIDGT
+		class 6
+		classfromname 6
+		isempty 1
+		model 1737773231
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RADI
+		class 2
+		classfromname 2
+		isempty 1
+		model -1651067813
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RLOADER
+		class 4
+		classfromname 4
+		isempty 1
+		model -667151410
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel REBEL01
+		class 9
+		classfromname 9
+		isempty 1
+		model -1207771834
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel REGINA
+		class 1
+		classfromname 1
+		isempty 1
+		model -14495224
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel REBEL02
+		class 9
+		classfromname 9
+		isempty 1
+		model -2045594037
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RENTBUS
+		class 17
+		classfromname 17
+		isempty 1
+		model -1098802077
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RUINER
+		class 4
+		classfromname 4
+		isempty 1
+		model -227741703
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RUMPO
+		class 12
+		classfromname 12
+		isempty 1
+		model 1162065741
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RUMPO
+		class 12
+		classfromname 12
+		isempty 1
+		model -1776615689
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RHINO
+		class 19
+		classfromname 19
+		isempty 1
+		model 782665360
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RIOT
+		class 18
+		classfromname 18
+		isempty 1
+		model -1205689942
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RIPLEY
+		class 11
+		classfromname 11
+		isempty 1
+		model -845979911
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel rocoto
+		class 2
+		classfromname 2
+		isempty 1
+		model 2136773105
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ROMERO
+		class 1
+		classfromname 1
+		isempty 1
+		model 627094268
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SABREGT
+		class 4
+		classfromname 4
+		isempty 1
+		model -1685021548
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SADLER
+		class 11
+		classfromname 11
+		isempty 1
+		model -599568815
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SADLER
+		class 11
+		classfromname 11
+		isempty 1
+		model 734217681
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SANDKING
+		class 9
+		classfromname 9
+		isempty 1
+		model -1189015600
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SANDKIN2
+		class 9
+		classfromname 9
+		isempty 1
+		model 989381445
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SCHAFTER
+		class 1
+		classfromname 1
+		isempty 1
+		model -1255452397
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SCHWARZE
+		class 6
+		classfromname 6
+		isempty 1
+		model -746882698
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SCRAP
+		class 11
+		classfromname 11
+		isempty 1
+		model -1700801569
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SEMINOLE
+		class 2
+		classfromname 2
+		isempty 1
+		model 1221512915
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SENTINEL
+		class 3
+		classfromname 3
+		isempty 1
+		model 1349725314
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SENTINEL2
+		class 3
+		classfromname 3
+		isempty 1
+		model 873639469
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ZION
+		class 3
+		classfromname 3
+		isempty 1
+		model -1122289213
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ZION2
+		class 3
+		classfromname 3
+		isempty 1
+		model -1193103848
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SERRANO
+		class 2
+		classfromname 2
+		isempty 1
+		model 1337041428
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SPEEDO
+		class 12
+		classfromname 12
+		isempty 1
+		model -810318068
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SPEEDO2
+		class 12
+		classfromname 12
+		isempty 1
+		model 728614474
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel STANIER
+		class 1
+		classfromname 1
+		isempty 1
+		model -1477580979
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel STINGER
+		class 5
+		classfromname 5
+		isempty 1
+		model 1545842587
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel STINGERG
+		class 5
+		classfromname 5
+		isempty 1
+		model -2098947590
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel STOCKADE
+		class 20
+		classfromname 20
+		isempty 1
+		model 1747439474
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel STOCKADE
+		class 20
+		classfromname 20
+		isempty 1
+		model -214455498
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel STRATUM
+		class 1
+		classfromname 1
+		isempty 1
+		model 1723137093
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SULTAN
+		class 6
+		classfromname 6
+		isempty 1
+		model 970598228
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SUPERD
+		class 1
+		classfromname 1
+		isempty 1
+		model 1123216662
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SURANO
+		class 6
+		classfromname 6
+		isempty 1
+		model 384071873
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SURFER
+		class 12
+		classfromname 12
+		isempty 1
+		model 699456151
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SURFER2
+		class 12
+		classfromname 12
+		isempty 1
+		model -1311240698
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SURGE
+		class 1
+		classfromname 1
+		isempty 1
+		model -1894894188
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TACO
+		class 12
+		classfromname 12
+		isempty 1
+		model 1951180813
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TAILGATE
+		class 1
+		classfromname 1
+		isempty 1
+		model -1008861746
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TAXI
+		class 17
+		classfromname 17
+		isempty 1
+		model -956048545
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TRASH
+		class 17
+		classfromname 17
+		isempty 1
+		model 1917016601
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TRACTOR
+		class 11
+		classfromname 11
+		isempty 1
+		model 1641462412
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TRACTOR2
+		class 11
+		classfromname 11
+		isempty 1
+		model -2076478498
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TRACTOR2
+		class 11
+		classfromname 11
+		isempty 1
+		model 1445631933
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TIPTRUCK
+		class 10
+		classfromname 10
+		isempty 1
+		model 48339065
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TIPTRUCK2
+		class 10
+		classfromname 10
+		isempty 1
+		model -947761570
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TORNADO
+		class 5
+		classfromname 5
+		isempty 1
+		model 464687292
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TORNADO2
+		class 5
+		classfromname 5
+		isempty 1
+		model 1531094468
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TORNADO3
+		class 5
+		classfromname 5
+		isempty 1
+		model 1762279763
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TORNADO
+		class 5
+		classfromname 5
+		isempty 1
+		model -2033222435
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TOURBUS
+		class 17
+		classfromname 17
+		isempty 1
+		model 1941029835
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TOWTRUCK
+		class 11
+		classfromname 11
+		isempty 1
+		model -1323100960
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TOWTRUCK
+		class 11
+		classfromname 11
+		isempty 1
+		model -442313018
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel UTILTRUC
+		class 11
+		classfromname 11
+		isempty 1
+		model 516990260
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel UTILTRUC
+		class 11
+		classfromname 11
+		isempty 1
+		model 887537515
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel UTILTRUC
+		class 11
+		classfromname 11
+		isempty 1
+		model 2132890591
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VOODOO
+		class 4
+		classfromname 4
+		isempty 1
+		model 523724515
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel WASHINGT
+		class 1
+		classfromname 1
+		isempty 1
+		model 1777363799
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel STRETCH
+		class 1
+		classfromname 1
+		isempty 1
+		model -1961627517
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel YOUGA
+		class 12
+		classfromname 12
+		isempty 1
+		model 65402552
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ZTYPE
+		class 5
+		classfromname 5
+		isempty 1
+		model 758895617
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SANCHEZ01
+		class 8
+		classfromname 8
+		isempty 1
+		model 788045382
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SANCHEZ02
+		class 8
+		classfromname 8
+		isempty 1
+		model -1453280962
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SCORCHER
+		class 13
+		classfromname 13
+		isempty 1
+		model -186537451
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TRIBIKE
+		class 13
+		classfromname 13
+		isempty 1
+		model 1127861609
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TRIBIKE2
+		class 13
+		classfromname 13
+		isempty 1
+		model -1233807380
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TRIBIKE3
+		class 13
+		classfromname 13
+		isempty 1
+		model -400295096
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FIXTER
+		class 13
+		classfromname 13
+		isempty 1
+		model -836512833
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CRUISER
+		class 13
+		classfromname 13
+		isempty 1
+		model 448402357
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BMX
+		class 13
+		classfromname 13
+		isempty 1
+		model 1131912276
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel AKUMA
+		class 8
+		classfromname 8
+		isempty 1
+		model 1672195559
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CARBON
+		class 8
+		classfromname 8
+		isempty 1
+		model 11251904
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BAGGER
+		class 8
+		classfromname 8
+		isempty 1
+		model -2140431165
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BATI
+		class 8
+		classfromname 8
+		isempty 1
+		model -114291515
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BATI2
+		class 8
+		classfromname 8
+		isempty 1
+		model -891462355
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RUFFIAN
+		class 8
+		classfromname 8
+		isempty 1
+		model -893578776
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DAEMON
+		class 8
+		classfromname 8
+		isempty 1
+		model 2006142190
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DOUBLE
+		class 8
+		classfromname 8
+		isempty 1
+		model -1670998136
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PCJ
+		class 8
+		classfromname 8
+		isempty 1
+		model -909201658
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VADER
+		class 8
+		classfromname 8
+		isempty 1
+		model -140902153
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VIGERO
+		class 4
+		classfromname 4
+		isempty 1
+		model -825837129
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FAGGIO
+		class 8
+		classfromname 8
+		isempty 1
+		model 55628203
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel HEXER
+		class 8
+		classfromname 8
+		isempty 1
+		model 301427732
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel NEMESIS
+		class 8
+		classfromname 8
+		isempty 1
+		model -634879114
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ADDER
+		class 7
+		classfromname 7
+		isempty 1
+		model -1216765807
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VOLTIC
+		class 7
+		classfromname 7
+		isempty 1
+		model -1622444098
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VACCA
+		class 7
+		classfromname 7
+		isempty 1
+		model 338562499
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BIFTA
+		class 9
+		classfromname 9
+		isempty 1
+		model -349601129
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel KALAHARI
+		class 9
+		classfromname 9
+		isempty 1
+		model 92612664
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PARADISE
+		class 12
+		classfromname 12
+		isempty 1
+		model 1488164764
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel JESTER
+		class 6
+		classfromname 6
+		isempty 1
+		model -1297672541
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TURISMOR
+		class 7
+		classfromname 7
+		isempty 1
+		model 408192225
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ALPHA
+		class 6
+		classfromname 6
+		isempty 1
+		model 767087018
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ROOSEVELT
+		class 5
+		classfromname 5
+		isempty 1
+		model 117401876
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ZENTORNO
+		class 7
+		classfromname 7
+		isempty 1
+		model -1403128555
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MASSACRO
+		class 6
+		classfromname 6
+		isempty 1
+		model -142942670
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel HUNTLEY
+		class 2
+		classfromname 2
+		isempty 1
+		model 486987393
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel THRUST
+		class 8
+		classfromname 8
+		isempty 1
+		model 1836027715
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RHAPSODY
+		class 0
+		classfromname 0
+		isempty 1
+		model 841808271
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel WARRENER
+		class 1
+		classfromname 1
+		isempty 1
+		model 1373123368
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BLADE
+		class 4
+		classfromname 4
+		isempty 1
+		model -1205801634
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel GLENDALE
+		class 1
+		classfromname 1
+		isempty 1
+		model 75131841
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PANTO
+		class 0
+		classfromname 0
+		isempty 1
+		model -431692672
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DUBSTA3
+		class 9
+		classfromname 9
+		isempty 1
+		model -1237253773
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PIGALLE
+		class 5
+		classfromname 5
+		isempty 1
+		model 1078682497
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MONSTER
+		class 9
+		classfromname 9
+		isempty 1
+		model -845961253
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SOVEREIGN
+		class 8
+		classfromname 8
+		isempty 1
+		model 743478836
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel COQUETTE2
+		class 5
+		classfromname 5
+		isempty 1
+		model 1011753235
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DUKES
+		class 4
+		classfromname 4
+		isempty 1
+		model 723973206
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DUKES2
+		class 4
+		classfromname 4
+		isempty 1
+		model -326143852
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BUFFALO3
+		class 6
+		classfromname 6
+		isempty 1
+		model 237764926
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DOMINATO2
+		class 4
+		classfromname 4
+		isempty 1
+		model -915704871
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MARSHALL
+		class 9
+		classfromname 9
+		isempty 1
+		model 1233534620
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel GAUNTLET2
+		class 4
+		classfromname 4
+		isempty 1
+		model 349315417
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel STALION
+		class 4
+		classfromname 4
+		isempty 1
+		model 1923400478
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel STALION2
+		class 4
+		classfromname 4
+		isempty 1
+		model -401643538
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BLISTA2
+		class 6
+		classfromname 6
+		isempty 1
+		model 1039032026
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BLISTA3
+		class 6
+		classfromname 6
+		isempty 1
+		model -591651781
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel INNOVATION
+		class 8
+		classfromname 8
+		isempty 1
+		model -159126838
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel HAKUCHOU
+		class 8
+		classfromname 8
+		isempty 1
+		model 1265391242
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FURORE
+		class 6
+		classfromname 6
+		isempty 1
+		model -1089039904
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MULE
+		class 20
+		classfromname 20
+		isempty 1
+		model -2052737935
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CASCO
+		class 5
+		classfromname 5
+		isempty 1
+		model 941800958
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BOXVILLE
+		class 12
+		classfromname 12
+		isempty 1
+		model 444171386
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel INSURGENT
+		class 9
+		classfromname 9
+		isempty 1
+		model -1860900134
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel INSURGENT2
+		class 9
+		classfromname 9
+		isempty 1
+		model 2071877360
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel GBURRITO2
+		class 12
+		classfromname 12
+		isempty 1
+		model 296357396
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TECHNICAL
+		class 9
+		classfromname 9
+		isempty 1
+		model -2096818938
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ENDURO
+		class 8
+		classfromname 8
+		isempty 1
+		model 1753414259
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel GUARDIAN
+		class 10
+		classfromname 10
+		isempty 1
+		model -2107990196
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel LECTRO
+		class 8
+		classfromname 8
+		isempty 1
+		model 640818791
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel KURUMA
+		class 6
+		classfromname 6
+		isempty 1
+		model -1372848492
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel KURUMA2
+		class 6
+		classfromname 6
+		isempty 1
+		model 410882957
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TRASH
+		class 17
+		classfromname 17
+		isempty 1
+		model -1255698084
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BARRACKS
+		class 19
+		classfromname 19
+		isempty 1
+		model 630371791
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SLAMVAN2
+		class 4
+		classfromname 4
+		isempty 1
+		model 833469436
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FELTZER3
+		class 5
+		classfromname 5
+		isempty 1
+		model -1566741232
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel OSIRIS
+		class 7
+		classfromname 7
+		isempty 1
+		model 1987142870
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VIRGO
+		class 4
+		classfromname 4
+		isempty 1
+		model -498054846
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel WINDSOR
+		class 3
+		classfromname 3
+		isempty 1
+		model 1581459400
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel COQUETTE3
+		class 4
+		classfromname 4
+		isempty 1
+		model 784565758
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VINDICATOR
+		class 8
+		classfromname 8
+		isempty 1
+		model -1353081087
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel T20
+		class 7
+		classfromname 7
+		isempty 1
+		model 1663218586
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BRAWLER
+		class 9
+		classfromname 9
+		isempty 1
+		model -1479664699
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CHINO
+		class 4
+		classfromname 4
+		isempty 1
+		model 349605904
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VERLIER
+		class 6
+		classfromname 6
+		isempty 1
+		model 1102544804
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel NITESHAD
+		class 4
+		classfromname 4
+		isempty 1
+		model -1943285540
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MAMBA
+		class 5
+		classfromname 5
+		isempty 1
+		model -1660945322
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel LIMO2
+		class 1
+		classfromname 1
+		isempty 1
+		model -114627507
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SCHAFTER3
+		class 6
+		classfromname 6
+		isempty 1
+		model -1485523546
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SCHAFTER4
+		class 6
+		classfromname 6
+		isempty 1
+		model 1489967196
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SCHAFTER5
+		class 1
+		classfromname 1
+		isempty 1
+		model -888242983
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SCHAFTER6
+		class 1
+		classfromname 1
+		isempty 1
+		model 1922255844
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel COG55
+		class 1
+		classfromname 1
+		isempty 1
+		model 906642318
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel COG552
+		class 1
+		classfromname 1
+		isempty 1
+		model 704435172
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel COGNOSC
+		class 1
+		classfromname 1
+		isempty 1
+		model -2030171296
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel COGNOSC2
+		class 1
+		classfromname 1
+		isempty 1
+		model -604842630
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BALLER3
+		class 2
+		classfromname 2
+		isempty 1
+		model 1878062887
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BALLER4
+		class 2
+		classfromname 2
+		isempty 1
+		model 634118882
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BALLER5
+		class 2
+		classfromname 2
+		isempty 1
+		model 470404958
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BALLER6
+		class 2
+		classfromname 2
+		isempty 1
+		model 666166960
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FACTION3
+		class 4
+		classfromname 4
+		isempty 1
+		model -2039755226
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MINIVAN2
+		class 12
+		classfromname 12
+		isempty 1
+		model -1126264336
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SABREGT2
+		class 4
+		classfromname 4
+		isempty 1
+		model 223258115
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SLAMVAN3
+		class 4
+		classfromname 4
+		isempty 1
+		model 1119641113
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TORNADO5
+		class 5
+		classfromname 5
+		isempty 1
+		model -1797613329
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VIRGO2
+		class 4
+		classfromname 4
+		isempty 1
+		model -899509638
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VIRGO3
+		class 4
+		classfromname 4
+		isempty 1
+		model 16646064
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SULTANRS
+		class 7
+		classfromname 7
+		isempty 1
+		model -295689028
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BANSHEE2
+		class 7
+		classfromname 7
+		isempty 1
+		model 633712403
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel XLS
+		class 2
+		classfromname 2
+		isempty 1
+		model 1203490606
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel XLS2
+		class 2
+		classfromname 2
+		isempty 1
+		model -432008408
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SEVEN70
+		class 6
+		classfromname 6
+		isempty 1
+		model -1757836725
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FMJ
+		class 7
+		classfromname 7
+		isempty 1
+		model 1426219628
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BESTIAGTS
+		class 6
+		classfromname 6
+		isempty 1
+		model 1274868363
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PFISTER811
+		class 7
+		classfromname 7
+		isempty 1
+		model -1829802492
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BRICKADE
+		class 17
+		classfromname 17
+		isempty 1
+		model -305727417
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RUMPO3
+		class 12
+		classfromname 12
+		isempty 1
+		model 1475773103
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PROTOTIPO
+		class 7
+		classfromname 7
+		isempty 1
+		model 2123327359
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel REAPER
+		class 7
+		classfromname 7
+		isempty 1
+		model 234062309
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel WINDSOR2
+		class 3
+		classfromname 3
+		isempty 1
+		model -1930048799
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel LYNX
+		class 6
+		classfromname 6
+		isempty 1
+		model 482197771
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel GARGOYLE
+		class 8
+		classfromname 8
+		isempty 1
+		model 741090084
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TYRUS
+		class 7
+		classfromname 7
+		isempty 1
+		model 2067820283
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SHEAVA
+		class 7
+		classfromname 7
+		isempty 1
+		model 819197656
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel OMNIS
+		class 6
+		classfromname 6
+		isempty 1
+		model -777172681
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel LE7B
+		class 7
+		classfromname 7
+		isempty 1
+		model -1232836011
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CONTENDER
+		class 2
+		classfromname 2
+		isempty 1
+		model 683047626
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TROPHY
+		class 9
+		classfromname 9
+		isempty 1
+		model 101905590
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TROPHY2
+		class 9
+		classfromname 9
+		isempty 1
+		model -663299102
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RALLYTRUCK
+		class 17
+		classfromname 17
+		isempty 1
+		model -2103821244
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CLIFFHANGER
+		class 8
+		classfromname 8
+		isempty 1
+		model 390201602
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BF400
+		class 8
+		classfromname 8
+		isempty 1
+		model 86520421
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TROPOS
+		class 6
+		classfromname 6
+		isempty 1
+		model 1887331236
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BRIOSO
+		class 0
+		classfromname 0
+		isempty 1
+		model 1549126457
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TAMPA2
+		class 6
+		classfromname 6
+		isempty 1
+		model -1071380347
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ELEGY
+		class 6
+		classfromname 6
+		isempty 1
+		model 196747873
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TEMPESTA
+		class 7
+		classfromname 7
+		isempty 1
+		model 272929391
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ITALIGTB
+		class 7
+		classfromname 7
+		isempty 1
+		model -2048333973
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ITALIGTB2
+		class 7
+		classfromname 7
+		isempty 1
+		model -482719877
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel NERO
+		class 7
+		classfromname 7
+		isempty 1
+		model 1034187331
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel NERO2
+		class 7
+		classfromname 7
+		isempty 1
+		model 1093792632
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SPECTER
+		class 6
+		classfromname 6
+		isempty 1
+		model 1886268224
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SPECTER2
+		class 6
+		classfromname 6
+		isempty 1
+		model 1074745671
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DIABLOUS
+		class 8
+		classfromname 8
+		isempty 1
+		model -239841468
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DIABLOUS2
+		class 8
+		classfromname 8
+		isempty 1
+		model 1790834270
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BLAZER5
+		class 9
+		classfromname 9
+		isempty 1
+		model -1590337689
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RUINER2
+		class 4
+		classfromname 4
+		isempty 1
+		model 941494461
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DUNE4
+		class 9
+		classfromname 9
+		isempty 1
+		model -827162039
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DUNE5
+		class 9
+		classfromname 9
+		isempty 1
+		model -312295511
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PHANTOM2
+		class 20
+		classfromname 20
+		isempty 1
+		model -1649536104
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VOLTIC2
+		class 7
+		classfromname 7
+		isempty 1
+		model 989294410
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel penetrator
+		class 7
+		classfromname 7
+		isempty 1
+		model -1758137366
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BOXVILLE5
+		class 12
+		classfromname 12
+		isempty 1
+		model 682434785
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel WASTLNDR
+		class 17
+		classfromname 17
+		isempty 1
+		model -1912017790
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TECHNICAL2
+		class 9
+		classfromname 9
+		isempty 1
+		model 1180875963
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FCR
+		class 8
+		classfromname 8
+		isempty 1
+		model 627535535
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FCR2
+		class 8
+		classfromname 8
+		isempty 1
+		model -757735410
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel COMET3
+		class 6
+		classfromname 6
+		isempty 1
+		model -2022483795
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RUINER
+		class 4
+		classfromname 4
+		isempty 1
+		model 777714999
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TORNADO6
+		class 5
+		classfromname 5
+		isempty 1
+		model -1558399629
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FAGGIO3
+		class 8
+		classfromname 8
+		isempty 1
+		model -1289178744
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FAGGION
+		class 8
+		classfromname 8
+		isempty 1
+		model -1842748181
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RAPTOR
+		class 6
+		classfromname 6
+		isempty 1
+		model -674927303
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VORTEX
+		class 8
+		classfromname 8
+		isempty 1
+		model -609625092
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel AVARUS
+		class 8
+		classfromname 8
+		isempty 1
+		model -2115793025
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SANCTUS
+		class 8
+		classfromname 8
+		isempty 1
+		model 1491277511
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel YOUGA2
+		class 12
+		classfromname 12
+		isempty 1
+		model 1026149675
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel HAKUCHOU2
+		class 8
+		classfromname 8
+		isempty 1
+		model -255678177
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel NIGHTBLADE
+		class 8
+		classfromname 8
+		isempty 1
+		model -1606187161
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CHIMERA
+		class 8
+		classfromname 8
+		isempty 1
+		model 6774487
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ESSKEY
+		class 8
+		classfromname 8
+		isempty 1
+		model 2035069708
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel WOLFSBANE
+		class 8
+		classfromname 8
+		isempty 1
+		model -618617997
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ZOMBIEA
+		class 8
+		classfromname 8
+		isempty 1
+		model -1009268949
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ZOMBIEB
+		class 8
+		classfromname 8
+		isempty 1
+		model -570033273
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DEFILER
+		class 8
+		classfromname 8
+		isempty 1
+		model 822018448
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DAEMON2
+		class 8
+		classfromname 8
+		isempty 1
+		model -1404136503
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RATBIKE
+		class 8
+		classfromname 8
+		isempty 1
+		model 1873600305
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SHOTARO
+		class 8
+		classfromname 8
+		isempty 1
+		model -405626514
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MANCHEZ
+		class 8
+		classfromname 8
+		isempty 1
+		model -1523428744
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BLAZER4
+		class 9
+		classfromname 9
+		isempty 1
+		model -440768424
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel XA21
+		class 7
+		classfromname 7
+		isempty 1
+		model 917809321
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CADDY3
+		class 11
+		classfromname 11
+		isempty 1
+		model -769147461
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VAGNER
+		class 7
+		classfromname 7
+		isempty 1
+		model 1939284556
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PHANTOM3
+		class 20
+		classfromname 20
+		isempty 1
+		model 177270108
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel NIGHTSHARK
+		class 9
+		classfromname 9
+		isempty 1
+		model 433954513
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CHEETAH2
+		class 5
+		classfromname 5
+		isempty 1
+		model 223240013
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TORERO
+		class 5
+		classfromname 5
+		isempty 1
+		model 1504306544
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel HAULER2
+		class 20
+		classfromname 20
+		isempty 1
+		model 387748548
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TECHNICAL3
+		class 9
+		classfromname 9
+		isempty 1
+		model 1356124575
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel INSURGENT3
+		class 9
+		classfromname 9
+		isempty 1
+		model -1924433270
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel APC
+		class 19
+		classfromname 19
+		isempty 1
+		model 562680400
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TAMPA3
+		class 4
+		classfromname 4
+		isempty 1
+		model -1210451983
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DUNE3
+		class 9
+		classfromname 9
+		isempty 1
+		model 1897744184
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel HALFTRACK
+		class 19
+		classfromname 19
+		isempty 1
+		model -32236122
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ARDENT
+		class 5
+		classfromname 5
+		isempty 1
+		model 159274291
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel OPPRESSOR
+		class 8
+		classfromname 8
+		isempty 1
+		model 884483972
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel JESTER2
+		class 6
+		classfromname 6
+		isempty 1
+		model -1106353882
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MASSACRO2
+		class 6
+		classfromname 6
+		isempty 1
+		model -631760477
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RLOADER2
+		class 4
+		classfromname 4
+		isempty 1
+		model -589178377
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SLAMVAN
+		class 4
+		classfromname 4
+		isempty 1
+		model 729783779
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel Z190
+		class 5
+		classfromname 5
+		isempty 1
+		model 838982985
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VISERIS
+		class 5
+		classfromname 5
+		isempty 1
+		model -391595372
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel COMET5
+		class 6
+		classfromname 6
+		isempty 1
+		model 661493923
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RAIDEN
+		class 6
+		classfromname 6
+		isempty 1
+		model -1529242755
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RIATA
+		class 9
+		classfromname 9
+		isempty 1
+		model -1532697517
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SC1
+		class 7
+		classfromname 7
+		isempty 1
+		model 1352136073
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel AUTARCH
+		class 7
+		classfromname 7
+		isempty 1
+		model -313185164
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SAVESTRA
+		class 5
+		classfromname 5
+		isempty 1
+		model 903794909
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel GT500
+		class 5
+		classfromname 5
+		isempty 1
+		model -2079788230
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel COMET4
+		class 6
+		classfromname 6
+		isempty 1
+		model 1561920505
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel NEON
+		class 6
+		classfromname 6
+		isempty 1
+		model -1848994066
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel sentinel3
+		class 6
+		classfromname 6
+		isempty 1
+		model 1104234922
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel KHANJALI
+		class 19
+		classfromname 19
+		isempty 1
+		model -1435527158
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BARRAGE
+		class 19
+		classfromname 19
+		isempty 1
+		model -212993243
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DELUXO
+		class 5
+		classfromname 5
+		isempty 1
+		model 1483171323
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel STROMBERG
+		class 5
+		classfromname 5
+		isempty 1
+		model 886810209
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CHERNOBOG
+		class 19
+		classfromname 19
+		isempty 1
+		model -692292317
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RIOT2
+		class 18
+		classfromname 18
+		isempty 1
+		model -1693015116
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel YOSEMITE
+		class 4
+		classfromname 4
+		isempty 1
+		model 1871995513
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel HERMES
+		class 4
+		classfromname 4
+		isempty 1
+		model 15219735
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel HUSTLER
+		class 4
+		classfromname 4
+		isempty 1
+		model 600450546
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel STREITER
+		class 6
+		classfromname 6
+		isempty 1
+		model 1741861769
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel REVOLTER
+		class 6
+		classfromname 6
+		isempty 1
+		model -410205223
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PARIAH
+		class 6
+		classfromname 6
+		isempty 1
+		model 867799010
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel KAMACHO
+		class 9
+		classfromname 9
+		isempty 1
+		model -121446169
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel LURCHER
+		class 4
+		classfromname 4
+		isempty 1
+		model 2068293287
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BTYPE2
+		class 5
+		classfromname 5
+		isempty 1
+		model -831834716
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FACTION
+		class 4
+		classfromname 4
+		isempty 1
+		model -2119578145
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FACTION2
+		class 4
+		classfromname 4
+		isempty 1
+		model -1790546981
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MOONBEAM
+		class 4
+		classfromname 4
+		isempty 1
+		model 525509695
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MOONBEAM2
+		class 4
+		classfromname 4
+		isempty 1
+		model 1896491931
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PRIMO2
+		class 1
+		classfromname 1
+		isempty 1
+		model -2040426790
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CHINO2
+		class 4
+		classfromname 4
+		isempty 1
+		model -1361687965
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BUCCANEE2
+		class 4
+		classfromname 4
+		isempty 1
+		model -1013450936
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VOODOO2
+		class 4
+		classfromname 4
+		isempty 1
+		model 2006667053
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VIGILANTE
+		class 7
+		classfromname 7
+		isempty 1
+		model -1242608589
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RAPIDGT3
+		class 5
+		classfromname 5
+		isempty 1
+		model 2049897956
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RETINUE
+		class 5
+		classfromname 5
+		isempty 1
+		model 1841130506
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CYCLONE
+		class 7
+		classfromname 7
+		isempty 1
+		model 1392481335
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VISIONE
+		class 7
+		classfromname 7
+		isempty 1
+		model -998177792
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TURISMO2
+		class 5
+		classfromname 5
+		isempty 1
+		model -982130927
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel INFERNUS2
+		class 5
+		classfromname 5
+		isempty 1
+		model -1405937764
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel GP1
+		class 7
+		classfromname 7
+		isempty 1
+		model 1234311532
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel RUSTON
+		class 6
+		classfromname 6
+		isempty 1
+		model 719660200
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ROOSEVELT2
+		class 5
+		classfromname 5
+		isempty 1
+		model -602287871
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TAMPA
+		class 4
+		classfromname 4
+		isempty 1
+		model 972671128
+		type 2
+		isenginerunning 0
+	}
+}
+Total 441:
+poptype(7):441
+classfromname(1):31
+classfromname(2):27
+classfromname(0):8
+classfromname(17):11
+classfromname(18):6
+classfromname(19):9
+classfromname(20):14
+classfromname(5):34
+classfromname(6):53
+classfromname(7):35
+classfromname(8):47
+classfromname(9):37
+classfromname(10):11
+classfromname(11):19
+classfromname(12):33
+classfromname(13):7
+classfromname(3):14
+classfromname(4):45
+isempty(1):441
+isenginerunning(0):441
+type(2):441
+class(1):31
+class(2):27
+class(0):8
+class(17):11
+class(18):6
+class(19):9
+class(20):14
+class(5):34
+class(6):53
+class(7):35
+class(8):47
+class(9):37
+class(10):11
+class(11):19
+class(12):33
+class(13):7
+class(3):14
+class(4):45

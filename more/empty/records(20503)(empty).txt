@@ -1,0 +1,653 @@
+Version 1 30 Research Title : GetRandomVehicleInSphere flags results By Negbook
+Total:58 Flags:20503 
+{
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ANNIHL
+		class 15
+		classfromname 15
+		isempty 1
+		model 837858166
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BUZZARD
+		class 15
+		classfromname 15
+		isempty 1
+		model 788747387
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BUZZARD2
+		class 15
+		classfromname 15
+		isempty 1
+		model 745926877
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CARGOBOB
+		class 15
+		classfromname 15
+		isempty 1
+		model -50547061
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CARGOBOB
+		class 15
+		classfromname 15
+		isempty 1
+		model 1621617168
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CARGOBOB
+		class 15
+		classfromname 15
+		isempty 1
+		model 1394036463
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SKYLIFT
+		class 15
+		classfromname 15
+		isempty 1
+		model 1044954915
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel POLMAV
+		class 15
+		classfromname 15
+		isempty 1
+		model 353883353
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MAVERICK
+		class 15
+		classfromname 15
+		isempty 1
+		model -1660661558
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FROGGER
+		class 15
+		classfromname 15
+		isempty 1
+		model 744705981
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel FROGGER
+		class 15
+		classfromname 15
+		isempty 1
+		model 1949211328
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CUBAN800
+		class 16
+		classfromname 16
+		isempty 1
+		model -644710429
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DUSTER
+		class 16
+		classfromname 16
+		isempty 1
+		model 970356638
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel STUNT
+		class 16
+		classfromname 16
+		isempty 1
+		model -2122757008
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MAMMATUS
+		class 16
+		classfromname 16
+		isempty 1
+		model -1746576111
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel JET
+		class 16
+		classfromname 16
+		isempty 1
+		model 1058115860
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SHAMAL
+		class 16
+		classfromname 16
+		isempty 1
+		model -1214505995
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel LUXOR
+		class 16
+		classfromname 16
+		isempty 1
+		model 621481054
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TITAN
+		class 16
+		classfromname 16
+		isempty 1
+		model 1981688531
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel LAZER
+		class 16
+		classfromname 16
+		isempty 1
+		model -1281684762
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CARGOPL
+		class 16
+		classfromname 16
+		isempty 1
+		model 368211810
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VELUM
+		class 16
+		classfromname 16
+		isempty 1
+		model -1673356438
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VESTRA
+		class 16
+		classfromname 16
+		isempty 1
+		model 1341619767
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MILJET
+		class 16
+		classfromname 16
+		isempty 1
+		model 165154707
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BESRA
+		class 16
+		classfromname 16
+		isempty 1
+		model 1824333165
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SWIFT
+		class 15
+		classfromname 15
+		isempty 1
+		model -339587598
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel DODO
+		class 16
+		classfromname 16
+		isempty 1
+		model -901163259
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VELUM2
+		class 16
+		classfromname 16
+		isempty 1
+		model 1077420264
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel HYDRA
+		class 16
+		classfromname 16
+		isempty 1
+		model 970385471
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SAVAGE
+		class 15
+		classfromname 15
+		isempty 1
+		model -82626025
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VALKYRIE
+		class 15
+		classfromname 15
+		isempty 1
+		model -1600252419
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SWIFT2
+		class 15
+		classfromname 15
+		isempty 1
+		model 1075432268
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel LUXOR2
+		class 16
+		classfromname 16
+		isempty 1
+		model -1214293858
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel CARGOBOB
+		class 15
+		classfromname 15
+		isempty 1
+		model 2025593404
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SVOLITO
+		class 15
+		classfromname 15
+		isempty 1
+		model 710198397
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SVOLITO2
+		class 15
+		classfromname 15
+		isempty 1
+		model -1671539132
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VALKYRI2
+		class 15
+		classfromname 15
+		isempty 1
+		model 1543134283
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel NIMBUS
+		class 16
+		classfromname 16
+		isempty 1
+		model -1295027632
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VOLATUS
+		class 15
+		classfromname 15
+		isempty 1
+		model -1845487887
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel VOLATOL
+		class 16
+		classfromname 16
+		isempty 1
+		model 447548909
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel AKULA
+		class 15
+		classfromname 15
+		isempty 1
+		model 1181327175
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel AVENGER
+		class 16
+		classfromname 16
+		isempty 1
+		model -2118308144
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel AVENGER
+		class 16
+		classfromname 16
+		isempty 1
+		model 408970549
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel THRUSTER
+		class 19
+		classfromname 19
+		isempty 1
+		model 1489874736
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel BOMBUSHKA
+		class 16
+		classfromname 16
+		isempty 1
+		model -32878452
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ALPHAZ1
+		class 16
+		classfromname 16
+		isempty 1
+		model -1523619738
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel SEABREEZE
+		class 16
+		classfromname 16
+		isempty 1
+		model -392675425
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel TULA
+		class 16
+		classfromname 16
+		isempty 1
+		model 1043222410
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel HAVOK
+		class 15
+		classfromname 15
+		isempty 1
+		model -1984275979
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel HUNTER
+		class 15
+		classfromname 15
+		isempty 1
+		model -42959138
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel microlight
+		class 16
+		classfromname 16
+		isempty 1
+		model -1763555241
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel ROGUE
+		class 16
+		classfromname 16
+		isempty 1
+		model -975345305
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel PYRO
+		class 16
+		classfromname 16
+		isempty 1
+		model -1386191424
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel HOWARD
+		class 16
+		classfromname 16
+		isempty 1
+		model -1007528109
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MOGUL
+		class 16
+		classfromname 16
+		isempty 1
+		model -749299473
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel STARLING
+		class 16
+		classfromname 16
+		isempty 1
+		model -1700874274
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel NOKOTA
+		class 16
+		classfromname 16
+		isempty 1
+		model 1036591958
+		type 2
+		isenginerunning 0
+	}
+	Item
+	{
+		poptype 7
+		displaynamefrommodel MOLOTOK
+		class 16
+		classfromname 16
+		isempty 1
+		model 1565978651
+		type 2
+		isenginerunning 0
+	}
+}
+Total 58:
+poptype(7):58
+classfromname(16):34
+classfromname(19):1
+classfromname(15):23
+isempty(1):58
+isenginerunning(0):58
+type(2):58
+class(16):34
+class(19):1
+class(15):23
