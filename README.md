@@ -27,6 +27,8 @@ Class                       Flags
 
 2+101383 = 7
 
+edited, after I put my ped into the vehicle.I found that some flags is relative with player is/isnt in the vehicle  
+
 
 want to get all car , bike and bicycle:  not supported player is in  
 entity = GetRandomVehicleInSphere( x,y,z, radius , 0 , 7 )   
