@@ -17,7 +17,7 @@ Class                       Flags
 16386 = 16390  
   
 12294 specialA  
-20503 specialB  plane + heli
-101383 police cars and a bike
+20503 specialB  plane + heli  
+101383 police cars and a bike  
 
-2,6,7,94 not included trailer
+2,6,7,94 not included trailer  
