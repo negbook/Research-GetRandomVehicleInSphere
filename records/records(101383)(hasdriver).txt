@@ -1,0 +1,321 @@
+Version 1 30 Research Title : GetRandomVehicleInSphere flags results By Negbook
+Total:14 Flags:101383 
+{
+	Item
+	{
+		IsThisModelABike 0
+		IsThisModelAHeli 0
+		isempty 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		poptype 7
+		IsThisModelATrain 0
+		IsThisModelABicycle 0
+		IsThisModelABoat 0
+		IsThisModelAQuadbike 0
+		IsThisModelAJetski 0
+		IsThisModelACar 1
+		model 456714581
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		class 18
+		type 2
+		displaynamefrommodel POLICET
+		classfromname 18
+	}
+	Item
+	{
+		IsThisModelABike 0
+		IsThisModelAHeli 0
+		isempty 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		poptype 7
+		IsThisModelATrain 0
+		IsThisModelABicycle 0
+		IsThisModelABoat 0
+		IsThisModelAQuadbike 0
+		IsThisModelAJetski 0
+		IsThisModelACar 1
+		model 1127131465
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		class 18
+		type 2
+		displaynamefrommodel FBI
+		classfromname 18
+	}
+	Item
+	{
+		IsThisModelABike 0
+		IsThisModelAHeli 0
+		isempty 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		poptype 7
+		IsThisModelATrain 0
+		IsThisModelABicycle 0
+		IsThisModelABoat 0
+		IsThisModelAQuadbike 0
+		IsThisModelAJetski 0
+		IsThisModelACar 1
+		model -1647941228
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		class 18
+		type 2
+		displaynamefrommodel FBI2
+		classfromname 18
+	}
+	Item
+	{
+		IsThisModelABike 0
+		IsThisModelAHeli 0
+		isempty 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		poptype 7
+		IsThisModelATrain 0
+		IsThisModelABicycle 0
+		IsThisModelABoat 0
+		IsThisModelAQuadbike 0
+		IsThisModelAJetski 0
+		IsThisModelACar 1
+		model 321739290
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		class 19
+		type 2
+		displaynamefrommodel CRUSADER
+		classfromname 19
+	}
+	Item
+	{
+		IsThisModelABike 0
+		IsThisModelAHeli 0
+		isempty 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		poptype 7
+		IsThisModelATrain 0
+		IsThisModelABicycle 0
+		IsThisModelABoat 0
+		IsThisModelAQuadbike 0
+		IsThisModelAJetski 0
+		IsThisModelACar 1
+		model 2046537925
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		class 18
+		type 2
+		displaynamefrommodel POLICE
+		classfromname 18
+	}
+	Item
+	{
+		IsThisModelABike 0
+		IsThisModelAHeli 0
+		isempty 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		poptype 7
+		IsThisModelATrain 0
+		IsThisModelABicycle 0
+		IsThisModelABoat 0
+		IsThisModelAQuadbike 0
+		IsThisModelAJetski 0
+		IsThisModelACar 1
+		model -1973172295
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		class 18
+		type 2
+		displaynamefrommodel POLICE4
+		classfromname 18
+	}
+	Item
+	{
+		IsThisModelABike 0
+		IsThisModelAHeli 0
+		isempty 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		poptype 7
+		IsThisModelATrain 0
+		IsThisModelABicycle 0
+		IsThisModelABoat 0
+		IsThisModelAQuadbike 0
+		IsThisModelAJetski 0
+		IsThisModelACar 1
+		model -1627000575
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		class 18
+		type 2
+		displaynamefrommodel POLICE2
+		classfromname 18
+	}
+	Item
+	{
+		IsThisModelABike 0
+		IsThisModelAHeli 0
+		isempty 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		poptype 7
+		IsThisModelATrain 0
+		IsThisModelABicycle 0
+		IsThisModelABoat 0
+		IsThisModelAQuadbike 0
+		IsThisModelAJetski 0
+		IsThisModelACar 1
+		model 1912215274
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		class 18
+		type 2
+		displaynamefrommodel POLICE
+		classfromname 18
+	}
+	Item
+	{
+		IsThisModelABike 0
+		IsThisModelAHeli 0
+		isempty 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		poptype 7
+		IsThisModelATrain 0
+		IsThisModelABicycle 0
+		IsThisModelABoat 0
+		IsThisModelAQuadbike 0
+		IsThisModelAJetski 0
+		IsThisModelACar 1
+		model -1536924937
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		class 18
+		type 2
+		displaynamefrommodel POLICEO1
+		classfromname 18
+	}
+	Item
+	{
+		IsThisModelABike 0
+		IsThisModelAHeli 0
+		isempty 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		poptype 7
+		IsThisModelATrain 0
+		IsThisModelABicycle 0
+		IsThisModelABoat 0
+		IsThisModelAQuadbike 0
+		IsThisModelAJetski 0
+		IsThisModelACar 1
+		model -1779120616
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		class 18
+		type 2
+		displaynamefrommodel POLICEO2
+		classfromname 18
+	}
+	Item
+	{
+		IsThisModelABike 0
+		IsThisModelAHeli 0
+		isempty 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		poptype 7
+		IsThisModelATrain 0
+		IsThisModelABicycle 0
+		IsThisModelABoat 0
+		IsThisModelAQuadbike 0
+		IsThisModelAJetski 0
+		IsThisModelACar 1
+		model 741586030
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		class 18
+		type 2
+		displaynamefrommodel PRANGER
+		classfromname 18
+	}
+	Item
+	{
+		IsThisModelABike 0
+		IsThisModelAHeli 0
+		isempty 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		poptype 7
+		IsThisModelATrain 0
+		IsThisModelABicycle 0
+		IsThisModelABoat 0
+		IsThisModelAQuadbike 0
+		IsThisModelAJetski 0
+		IsThisModelACar 1
+		model -1683328900
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		class 18
+		type 2
+		displaynamefrommodel SHERIFF
+		classfromname 18
+	}
+	Item
+	{
+		IsThisModelABike 0
+		IsThisModelAHeli 0
+		isempty 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		poptype 7
+		IsThisModelATrain 0
+		IsThisModelABicycle 0
+		IsThisModelABoat 0
+		IsThisModelAQuadbike 0
+		IsThisModelAJetski 0
+		IsThisModelACar 1
+		model 1922257928
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		class 18
+		type 2
+		displaynamefrommodel SHERIFF2
+		classfromname 18
+	}
+	Item
+	{
+		IsThisModelABike 1
+		IsThisModelAHeli 0
+		isempty 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		poptype 7
+		IsThisModelATrain 0
+		IsThisModelABicycle 0
+		IsThisModelABoat 0
+		IsThisModelAQuadbike 0
+		IsThisModelAJetski 0
+		IsThisModelACar 0
+		model -34623805
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		class 18
+		type 2
+		displaynamefrommodel POLICEB
+		classfromname 18
+	}
+}
+Total 14:
+poptype(7):14
+classfromname(18):13
+classfromname(19):1
+type(2):14
+class(18):13
+class(19):1
+IsThisModelACar(1):13
+IsThisModelABike(1):1
