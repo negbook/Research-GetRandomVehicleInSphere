@@ -1,5 +1,5 @@
 Version 1 30 Research Title : GetRandomVehicleInSphere flags results By Negbook
-Total:128 Flags:2nofound 
+Total:114 Flags:7nofound 
 {
 	Item
 	{
@@ -39,93 +39,15 @@ Total:128 Flags:2nofound
 	}
 	Item
 	{
-		modelname 18
-		displaynamefrommodel POLICET
-		nofound 456714581
-	}
-	Item
-	{
 		modelname 21
 		displaynamefrommodel CABLECAR
 		nofound 3334677549
 	}
 	Item
 	{
-		modelname 18
-		displaynamefrommodel FBI
-		nofound 1127131465
-	}
-	Item
-	{
-		modelname 18
-		displaynamefrommodel FBI2
-		nofound 2647026068
-	}
-	Item
-	{
-		modelname 19
-		displaynamefrommodel CRUSADER
-		nofound 321739290
-	}
-	Item
-	{
-		modelname 18
-		displaynamefrommodel POLICE
-		nofound 2046537925
-	}
-	Item
-	{
-		modelname 18
-		displaynamefrommodel POLICE4
-		nofound 2321795001
-	}
-	Item
-	{
-		modelname 18
-		displaynamefrommodel POLICE2
-		nofound 2667966721
-	}
-	Item
-	{
-		modelname 18
-		displaynamefrommodel POLICE
-		nofound 1912215274
-	}
-	Item
-	{
-		modelname 18
-		displaynamefrommodel POLICEO1
-		nofound 2758042359
-	}
-	Item
-	{
-		modelname 18
-		displaynamefrommodel POLICEO2
-		nofound 2515846680
-	}
-	Item
-	{
-		modelname 18
-		displaynamefrommodel PRANGER
-		nofound 741586030
-	}
-	Item
-	{
 		modelname 11
 		displaynamefrommodel proptrailer
 		nofound 356391690
-	}
-	Item
-	{
-		modelname 18
-		displaynamefrommodel SHERIFF
-		nofound 2611638396
-	}
-	Item
-	{
-		modelname 18
-		displaynamefrommodel SHERIFF2
-		nofound 1922257928
 	}
 	Item
 	{
@@ -138,12 +60,6 @@ Total:128 Flags:2nofound
 		modelname 11
 		displaynamefrommodel BALETRAILER
 		nofound 3895125590
-	}
-	Item
-	{
-		modelname 18
-		displaynamefrommodel POLICEB
-		nofound 4260343491
 	}
 	Item
 	{
@@ -770,132 +686,118 @@ Total:128 Flags:2nofound
 		nofound 1565978651
 	}
 }
-Total 128:
-nofound(1565978651):1
-nofound(2667966721):1
+Total 114:
 nofound(1956216962):1
 nofound(3251507587):1
-nofound(1036591958):1
 nofound(3393804037):1
 nofound(4143991942):1
-nofound(2594093022):1
-nofound(1922257928):1
 nofound(3087536137):1
 nofound(356391690):1
 nofound(4244420235):1
 nofound(4262088844):1
-nofound(3545667823):1
 nofound(3417488910):1
-nofound(3287439187):1
 nofound(1033245328):1
-nofound(2548391185):1
-nofound(2908775872):1
+nofound(2715434129):1
 nofound(165154707):1
 nofound(1058115860):1
-nofound(712162987):1
 nofound(1019737494):1
 nofound(4212341271):1
-nofound(2515846680):1
-nofound(3228633070):1
-nofound(321739290):1
+nofound(920453016):1
 nofound(1030400667):1
-nofound(4252008158):1
-nofound(2310691317):1
 nofound(970356638):1
 nofound(3902291871):1
-nofound(1043222410):1
-nofound(2771347558):1
-nofound(1489874736):1
+nofound(1565978651):1
+nofound(1036591958):1
 nofound(1044954915):1
 nofound(3264692260):1
-nofound(408970549):1
+nofound(2594093022):1
 nofound(184361638):1
-nofound(2176659152):1
-nofound(867467158):1
-nofound(447548909):1
+nofound(3545667823):1
+nofound(3287439187):1
+nofound(2908775872):1
 nofound(437538602):1
 nofound(3806844075):1
 nofound(276773164):1
 nofound(3334677549):1
-nofound(2016027501):1
-nofound(290013743):1
+nofound(3228633070):1
+nofound(771711535):1
 nofound(586013744):1
-nofound(1502869817):1
+nofound(908897389):1
 nofound(2942498482):1
 nofound(2194326579):1
-nofound(3194418602):1
+nofound(4252008158):1
 nofound(524108981):1
-nofound(642617954):1
+nofound(2310691317):1
 nofound(3564062519):1
-nofound(2999939664):1
-nofound(2321795001):1
-nofound(908897389):1
+nofound(1043222410):1
+nofound(1502869817):1
+nofound(2771347558):1
 nofound(2413121211):1
 nofound(2025593404):1
 nofound(744705981):1
 nofound(2524324030):1
 nofound(970385471):1
 nofound(1949211328):1
-nofound(710198397):1
+nofound(1489874736):1
 nofound(400514754):1
-nofound(4260343491):1
+nofound(408970549):1
 nofound(2623428164):1
-nofound(2046537925):1
+nofound(2176659152):1
 nofound(2078290630):1
 nofound(1181327175):1
-nofound(3983945033):1
-nofound(1127131465):1
+nofound(447548909):1
+nofound(4012021193):1
 nofound(2634305738):1
 nofound(1543134283):1
 nofound(1075432268):1
-nofound(1070967343):1
-nofound(3080673438):1
-nofound(771711535):1
+nofound(3194418602):1
+nofound(712162987):1
+nofound(2999939664):1
 nofound(2091594960):1
-nofound(509498602):1
-nofound(1784254509):1
+nofound(710198397):1
+nofound(1824333165):1
 nofound(1981688531):1
-nofound(3681241380):1
-nofound(456714581):1
-nofound(3895125590):1
+nofound(867467158):1
+nofound(3983945033):1
+nofound(2657817814):1
 nofound(2531412055):1
 nofound(868868440):1
 nofound(353883353):1
-nofound(3955379698):1
-nofound(1824333165):1
-nofound(1341619767):1
+nofound(1070967343):1
+nofound(3080673438):1
+nofound(3895125590):1
 nofound(745926877):1
 nofound(621481054):1
-nofound(231083307):1
-nofound(4012021193):1
+nofound(509498602):1
+nofound(3955379698):1
 nofound(861409633):1
-nofound(368211810):1
+nofound(642617954):1
 nofound(3650256867):1
 nofound(3678636260):1
-nofound(2621610858):1
+nofound(3681241380):1
 nofound(3517691494):1
 nofound(3319621991):1
 nofound(1077420264):1
 nofound(1448677353):1
-nofound(1912215274):1
-nofound(2154757102):1
-nofound(2715434129):1
+nofound(2621610858):1
+nofound(1341619767):1
+nofound(231083307):1
 nofound(2236089197):1
-nofound(741586030):1
+nofound(2154757102):1
 nofound(1394036463):1
 nofound(2172210288):1
 nofound(2449479409):1
 nofound(390902130):1
-nofound(2647026068):1
+nofound(1784254509):1
 nofound(1621617168):1
 nofound(2818520053):1
 nofound(837858166):1
-nofound(2758042359):1
-nofound(920453016):1
+nofound(2548391185):1
+nofound(2016027501):1
 nofound(240201337):1
-nofound(2657817814):1
-nofound(788747387):1
-nofound(2611638396):1
-nofound(2694714877):1
 nofound(3013282534):1
+nofound(788747387):1
+nofound(290013743):1
+nofound(2694714877):1
+nofound(368211810):1
 nofound(3080461301):1
