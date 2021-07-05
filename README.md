@@ -10,7 +10,8 @@ Class                       Flags
 
 0 only find some police  
 2 same as 6,94.maybe perfer to hit some classes.forexample 6 is perfer to find service car like taxi.   no plane no train no heli  
-7 finds more than 2.which finds FBI/POLICE/SHERIFF s  . no plane no train no heli  
+2,6 dont find when player is in,but 94 is included player is in  
+7 finds more than 2.which finds FBI/POLICE/SHERIFF s  . no plane no train no heli  no player is in  
 -1 only find (4 police helis and 1 police boat)  
 16390 find only 16    planes
     
@@ -27,11 +28,19 @@ Class                       Flags
 2+101383 = 7
 
 
-want to get all car , bike and bicycle:  
+want to get all car , bike and bicycle:  not supported player is in  
 entity = GetRandomVehicleInSphere( x,y,z, radius , 0 , 7 )   
-want to get all planes :  
+want to get all car , bike and bicycle:  supported player is in  
+entity = GetRandomVehicleInSphere( x,y,z, radius , 0 , 23 or 127 or 2175 or 67711)   
+
+want to get all car , bike and bicycle without polices:  not supported player is in  
+entity = GetRandomVehicleInSphere( x,y,z, radius , 0 , 2 )   
+want to get all car , bike and bicycle without polices:  supported player is in  
+entity = GetRandomVehicleInSphere( x,y,z, radius , 0 , 94 )   
+
+want to get all planes :  not supported player is in 
 entity = GetRandomVehicleInSphere( x,y,z, radius , 0 , 16390 )   
-want to get all planes , helis:  
+want to get all planes , helis:  supported player is in  
 entity = GetRandomVehicleInSphere( x,y,z, radius , 0 , 20503 )   
 
 
