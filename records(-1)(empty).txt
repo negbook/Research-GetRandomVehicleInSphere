@@ -3,67 +3,67 @@ Total:5 Flags:-1
 {
 	Item
 	{
-		displaynamefrommodel ANNIHL
-		classfromname 15
-		class 15
-		isenginerunning 0
+		poptype 7
 		model 837858166
 		isempty 1
+		class 15
+		classfromname 15
+		isenginerunning 0
 		type 2
-		poptype 7
+		displaynamefrommodel ANNIHL
 	}
 	Item
 	{
-		displaynamefrommodel POLMAV
-		classfromname 15
-		class 15
-		isenginerunning 0
+		poptype 7
 		model 353883353
 		isempty 1
+		class 15
+		classfromname 15
+		isenginerunning 0
 		type 2
-		poptype 7
+		displaynamefrommodel POLMAV
 	}
 	Item
 	{
-		displaynamefrommodel PREDATOR
-		classfromname 14
-		class 14
-		isenginerunning 1
+		poptype 7
 		model -488123221
 		isempty 1
+		class 14
+		classfromname 14
+		isenginerunning 1
 		type 2
-		poptype 7
+		displaynamefrommodel PREDATOR
 	}
 	Item
 	{
-		displaynamefrommodel VALKYRIE
-		classfromname 15
-		class 15
-		isenginerunning 0
+		poptype 7
 		model -1600252419
 		isempty 1
+		class 15
+		classfromname 15
+		isenginerunning 0
 		type 2
-		poptype 7
+		displaynamefrommodel VALKYRIE
 	}
 	Item
 	{
-		displaynamefrommodel VALKYRI2
-		classfromname 15
-		class 15
-		isenginerunning 0
+		poptype 7
 		model 1543134283
 		isempty 1
+		class 15
+		classfromname 15
+		isenginerunning 0
 		type 2
-		poptype 7
+		displaynamefrommodel VALKYRI2
 	}
 }
 Total 5:
+poptype(7):5
+isempty(1):5
+classfromname(14):1
+classfromname(15):4
+isenginerunning(1):1
+isenginerunning(0):4
 type(2):5
 class(14):1
 class(15):4
-classfromname(14):1
-classfromname(15):4
-isempty(1):5
-isenginerunning(1):1
-isenginerunning(0):4
-poptype(7):5
