@@ -1,4 +1,6 @@
 # Research-GetRandomVehicleInSphere  
+GetRandomVehicleInSphere get no train no trailers
+
 Class                       Flags  
 14 15                       :-1  
 16                          :16390  
@@ -21,3 +23,17 @@ Class                       Flags
 101383 police cars and a bike
 
 2,6,7,94 not included trailer
+
+2+101383 = 7
+
+
+want to get all car , bike and bicycle:  
+entity = GetRandomVehicleInSphere( x,y,z, radius , 0 , 7 )   
+want to get all planes :  
+entity = GetRandomVehicleInSphere( x,y,z, radius , 0 , 16390 )   
+want to get all planes , helis:  
+entity = GetRandomVehicleInSphere( x,y,z, radius , 0 , 20503 )   
+
+
+
+
