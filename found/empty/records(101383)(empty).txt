@@ -3,165 +3,332 @@ Total:14 Flags:101383
 {
 	Item
 	{
-		classfromname 18
-		isenginerunning 0
-		class 18
-		displaynamefrommodel POLICET
-		poptype 7
-		type 2
+		IsThisModelABoat 0
+		IsThisModelAnAmphibiousQuadbike 0
+		IsThisModelAQuadbike 0
 		model 456714581
 		isempty 1
+		isenginerunning 0
+		IsThisModelACar 1
+		IsThisModelABicycle 0
+		poptype 7
+		IsThisModelAJetski 0
+		class 18
+		IsThisModelATrain 0
+		type 2
+		IsThisModelABike 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		classfromname 18
+		displaynamefrommodel POLICET
+		IsThisModelAHeli 0
 	}
 	Item
 	{
-		classfromname 18
-		isenginerunning 0
-		class 18
-		displaynamefrommodel FBI
-		poptype 7
-		type 2
+		IsThisModelABoat 0
+		IsThisModelAnAmphibiousQuadbike 0
+		IsThisModelAQuadbike 0
 		model 1127131465
 		isempty 1
+		isenginerunning 0
+		IsThisModelACar 1
+		IsThisModelABicycle 0
+		poptype 7
+		IsThisModelAJetski 0
+		class 18
+		IsThisModelATrain 0
+		type 2
+		IsThisModelABike 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		classfromname 18
+		displaynamefrommodel FBI
+		IsThisModelAHeli 0
 	}
 	Item
 	{
-		classfromname 18
-		isenginerunning 0
-		class 18
-		displaynamefrommodel FBI2
-		poptype 7
-		type 2
+		IsThisModelABoat 0
+		IsThisModelAnAmphibiousQuadbike 0
+		IsThisModelAQuadbike 0
 		model -1647941228
 		isempty 1
+		isenginerunning 0
+		IsThisModelACar 1
+		IsThisModelABicycle 0
+		poptype 7
+		IsThisModelAJetski 0
+		class 18
+		IsThisModelATrain 0
+		type 2
+		IsThisModelABike 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		classfromname 18
+		displaynamefrommodel FBI2
+		IsThisModelAHeli 0
 	}
 	Item
 	{
-		classfromname 19
-		isenginerunning 0
-		class 19
-		displaynamefrommodel CRUSADER
-		poptype 7
-		type 2
+		IsThisModelABoat 0
+		IsThisModelAnAmphibiousQuadbike 0
+		IsThisModelAQuadbike 0
 		model 321739290
 		isempty 1
+		isenginerunning 0
+		IsThisModelACar 1
+		IsThisModelABicycle 0
+		poptype 7
+		IsThisModelAJetski 0
+		class 19
+		IsThisModelATrain 0
+		type 2
+		IsThisModelABike 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		classfromname 19
+		displaynamefrommodel CRUSADER
+		IsThisModelAHeli 0
 	}
 	Item
 	{
-		classfromname 18
-		isenginerunning 0
-		class 18
-		displaynamefrommodel POLICE
-		poptype 7
-		type 2
+		IsThisModelABoat 0
+		IsThisModelAnAmphibiousQuadbike 0
+		IsThisModelAQuadbike 0
 		model 2046537925
 		isempty 1
+		isenginerunning 0
+		IsThisModelACar 1
+		IsThisModelABicycle 0
+		poptype 7
+		IsThisModelAJetski 0
+		class 18
+		IsThisModelATrain 0
+		type 2
+		IsThisModelABike 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		classfromname 18
+		displaynamefrommodel POLICE
+		IsThisModelAHeli 0
 	}
 	Item
 	{
-		classfromname 18
-		isenginerunning 0
-		class 18
-		displaynamefrommodel POLICE4
-		poptype 7
-		type 2
+		IsThisModelABoat 0
+		IsThisModelAnAmphibiousQuadbike 0
+		IsThisModelAQuadbike 0
 		model -1973172295
 		isempty 1
+		isenginerunning 0
+		IsThisModelACar 1
+		IsThisModelABicycle 0
+		poptype 7
+		IsThisModelAJetski 0
+		class 18
+		IsThisModelATrain 0
+		type 2
+		IsThisModelABike 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		classfromname 18
+		displaynamefrommodel POLICE4
+		IsThisModelAHeli 0
 	}
 	Item
 	{
-		classfromname 18
-		isenginerunning 0
-		class 18
-		displaynamefrommodel POLICE2
-		poptype 7
-		type 2
+		IsThisModelABoat 0
+		IsThisModelAnAmphibiousQuadbike 0
+		IsThisModelAQuadbike 0
 		model -1627000575
 		isempty 1
+		isenginerunning 0
+		IsThisModelACar 1
+		IsThisModelABicycle 0
+		poptype 7
+		IsThisModelAJetski 0
+		class 18
+		IsThisModelATrain 0
+		type 2
+		IsThisModelABike 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		classfromname 18
+		displaynamefrommodel POLICE2
+		IsThisModelAHeli 0
 	}
 	Item
 	{
-		classfromname 18
-		isenginerunning 0
-		class 18
-		displaynamefrommodel POLICE
-		poptype 7
-		type 2
+		IsThisModelABoat 0
+		IsThisModelAnAmphibiousQuadbike 0
+		IsThisModelAQuadbike 0
 		model 1912215274
 		isempty 1
+		isenginerunning 0
+		IsThisModelACar 1
+		IsThisModelABicycle 0
+		poptype 7
+		IsThisModelAJetski 0
+		class 18
+		IsThisModelATrain 0
+		type 2
+		IsThisModelABike 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		classfromname 18
+		displaynamefrommodel POLICE
+		IsThisModelAHeli 0
 	}
 	Item
 	{
-		classfromname 18
-		isenginerunning 0
-		class 18
-		displaynamefrommodel POLICEO1
-		poptype 7
-		type 2
+		IsThisModelABoat 0
+		IsThisModelAnAmphibiousQuadbike 0
+		IsThisModelAQuadbike 0
 		model -1536924937
 		isempty 1
+		isenginerunning 0
+		IsThisModelACar 1
+		IsThisModelABicycle 0
+		poptype 7
+		IsThisModelAJetski 0
+		class 18
+		IsThisModelATrain 0
+		type 2
+		IsThisModelABike 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		classfromname 18
+		displaynamefrommodel POLICEO1
+		IsThisModelAHeli 0
 	}
 	Item
 	{
-		classfromname 18
-		isenginerunning 0
-		class 18
-		displaynamefrommodel POLICEO2
-		poptype 7
-		type 2
+		IsThisModelABoat 0
+		IsThisModelAnAmphibiousQuadbike 0
+		IsThisModelAQuadbike 0
 		model -1779120616
 		isempty 1
+		isenginerunning 0
+		IsThisModelACar 1
+		IsThisModelABicycle 0
+		poptype 7
+		IsThisModelAJetski 0
+		class 18
+		IsThisModelATrain 0
+		type 2
+		IsThisModelABike 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		classfromname 18
+		displaynamefrommodel POLICEO2
+		IsThisModelAHeli 0
 	}
 	Item
 	{
-		classfromname 18
-		isenginerunning 0
-		class 18
-		displaynamefrommodel PRANGER
-		poptype 7
-		type 2
+		IsThisModelABoat 0
+		IsThisModelAnAmphibiousQuadbike 0
+		IsThisModelAQuadbike 0
 		model 741586030
 		isempty 1
+		isenginerunning 0
+		IsThisModelACar 1
+		IsThisModelABicycle 0
+		poptype 7
+		IsThisModelAJetski 0
+		class 18
+		IsThisModelATrain 0
+		type 2
+		IsThisModelABike 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		classfromname 18
+		displaynamefrommodel PRANGER
+		IsThisModelAHeli 0
 	}
 	Item
 	{
-		classfromname 18
-		isenginerunning 0
-		class 18
-		displaynamefrommodel SHERIFF
-		poptype 7
-		type 2
+		IsThisModelABoat 0
+		IsThisModelAnAmphibiousQuadbike 0
+		IsThisModelAQuadbike 0
 		model -1683328900
 		isempty 1
+		isenginerunning 0
+		IsThisModelACar 1
+		IsThisModelABicycle 0
+		poptype 7
+		IsThisModelAJetski 0
+		class 18
+		IsThisModelATrain 0
+		type 2
+		IsThisModelABike 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		classfromname 18
+		displaynamefrommodel SHERIFF
+		IsThisModelAHeli 0
 	}
 	Item
 	{
-		classfromname 18
-		isenginerunning 0
-		class 18
-		displaynamefrommodel SHERIFF2
-		poptype 7
-		type 2
+		IsThisModelABoat 0
+		IsThisModelAnAmphibiousQuadbike 0
+		IsThisModelAQuadbike 0
 		model 1922257928
 		isempty 1
+		isenginerunning 0
+		IsThisModelACar 1
+		IsThisModelABicycle 0
+		poptype 7
+		IsThisModelAJetski 0
+		class 18
+		IsThisModelATrain 0
+		type 2
+		IsThisModelABike 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		classfromname 18
+		displaynamefrommodel SHERIFF2
+		IsThisModelAHeli 0
 	}
 	Item
 	{
-		classfromname 18
-		isenginerunning 0
-		class 18
-		displaynamefrommodel POLICEB
-		poptype 7
-		type 2
+		IsThisModelABoat 0
+		IsThisModelAnAmphibiousQuadbike 0
+		IsThisModelAQuadbike 0
 		model -34623805
 		isempty 1
+		isenginerunning 0
+		IsThisModelACar 0
+		IsThisModelABicycle 0
+		poptype 7
+		IsThisModelAJetski 0
+		class 18
+		IsThisModelATrain 0
+		type 2
+		IsThisModelABike 1
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		classfromname 18
+		displaynamefrommodel POLICEB
+		IsThisModelAHeli 0
 	}
 }
 Total 14:
-isenginerunning(0):14
+IsThisModelABoat(0):14
+IsThisModelAnAmphibiousQuadbike(0):14
 class(18):13
 class(19):1
-poptype(7):14
+IsThisModelAJetski(0):14
+isenginerunning(0):14
+IsThisModelACar(1):13
+IsThisModelACar(0):1
+IsThisModelABicycle(0):14
+isempty(1):14
+IsThisModelAQuadbike(0):14
 classfromname(18):13
 classfromname(19):1
-isempty(1):14
 type(2):14
+poptype(7):14
+IsThisModelAPlane(0):14
+IsThisModelAnAmphibiousCar(0):14
+IsThisModelATrain(0):14
+IsThisModelABike(1):1
+IsThisModelABike(0):13
+IsThisModelAHeli(0):14

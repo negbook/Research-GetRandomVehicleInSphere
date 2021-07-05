@@ -3,67 +3,135 @@ Total:5 Flags:-1
 {
 	Item
 	{
-		classfromname 15
-		isenginerunning 0
-		class 15
-		displaynamefrommodel ANNIHL
-		poptype 7
-		type 2
+		IsThisModelABoat 0
+		IsThisModelAnAmphibiousQuadbike 0
+		IsThisModelAQuadbike 0
 		model 837858166
 		isempty 1
+		isenginerunning 0
+		IsThisModelACar 0
+		IsThisModelABicycle 0
+		poptype 7
+		IsThisModelAJetski 0
+		class 15
+		IsThisModelATrain 0
+		type 2
+		IsThisModelABike 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		classfromname 15
+		displaynamefrommodel ANNIHL
+		IsThisModelAHeli 1
 	}
 	Item
 	{
-		classfromname 15
-		isenginerunning 0
-		class 15
-		displaynamefrommodel POLMAV
-		poptype 7
-		type 2
+		IsThisModelABoat 0
+		IsThisModelAnAmphibiousQuadbike 0
+		IsThisModelAQuadbike 0
 		model 353883353
 		isempty 1
+		isenginerunning 0
+		IsThisModelACar 0
+		IsThisModelABicycle 0
+		poptype 7
+		IsThisModelAJetski 0
+		class 15
+		IsThisModelATrain 0
+		type 2
+		IsThisModelABike 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		classfromname 15
+		displaynamefrommodel POLMAV
+		IsThisModelAHeli 1
 	}
 	Item
 	{
-		classfromname 14
-		isenginerunning 1
-		class 14
-		displaynamefrommodel PREDATOR
-		poptype 7
-		type 2
+		IsThisModelABoat 1
+		IsThisModelAnAmphibiousQuadbike 0
+		IsThisModelAQuadbike 0
 		model -488123221
 		isempty 1
+		isenginerunning 1
+		IsThisModelACar 0
+		IsThisModelABicycle 0
+		poptype 7
+		IsThisModelAJetski 0
+		class 14
+		IsThisModelATrain 0
+		type 2
+		IsThisModelABike 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		classfromname 14
+		displaynamefrommodel PREDATOR
+		IsThisModelAHeli 0
 	}
 	Item
 	{
-		classfromname 15
-		isenginerunning 0
-		class 15
-		displaynamefrommodel VALKYRIE
-		poptype 7
-		type 2
+		IsThisModelABoat 0
+		IsThisModelAnAmphibiousQuadbike 0
+		IsThisModelAQuadbike 0
 		model -1600252419
 		isempty 1
+		isenginerunning 0
+		IsThisModelACar 0
+		IsThisModelABicycle 0
+		poptype 7
+		IsThisModelAJetski 0
+		class 15
+		IsThisModelATrain 0
+		type 2
+		IsThisModelABike 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		classfromname 15
+		displaynamefrommodel VALKYRIE
+		IsThisModelAHeli 1
 	}
 	Item
 	{
-		classfromname 15
-		isenginerunning 0
-		class 15
-		displaynamefrommodel VALKYRI2
-		poptype 7
-		type 2
+		IsThisModelABoat 0
+		IsThisModelAnAmphibiousQuadbike 0
+		IsThisModelAQuadbike 0
 		model 1543134283
 		isempty 1
+		isenginerunning 0
+		IsThisModelACar 0
+		IsThisModelABicycle 0
+		poptype 7
+		IsThisModelAJetski 0
+		class 15
+		IsThisModelATrain 0
+		type 2
+		IsThisModelABike 0
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		classfromname 15
+		displaynamefrommodel VALKYRI2
+		IsThisModelAHeli 1
 	}
 }
 Total 5:
-isenginerunning(1):1
-isenginerunning(0):4
+IsThisModelABoat(1):1
+IsThisModelABoat(0):4
+IsThisModelAnAmphibiousQuadbike(0):5
 class(14):1
 class(15):4
-poptype(7):5
+IsThisModelAJetski(0):5
+isenginerunning(1):1
+isenginerunning(0):4
+IsThisModelACar(0):5
+IsThisModelABicycle(0):5
+isempty(1):5
+IsThisModelAQuadbike(0):5
 classfromname(14):1
 classfromname(15):4
-isempty(1):5
 type(2):5
+poptype(7):5
+IsThisModelAPlane(0):5
+IsThisModelAnAmphibiousCar(0):5
+IsThisModelATrain(0):5
+IsThisModelABike(0):5
+IsThisModelAHeli(1):4
+IsThisModelAHeli(0):1
