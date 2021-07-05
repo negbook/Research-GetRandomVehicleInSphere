@@ -1,0 +1,900 @@
+Version 1 30 Research Title : GetRandomVehicleInSphere flags results By Negbook
+{
+	Item
+	{
+		displaynamefrommodel BOATTRAILER
+		modelname 11
+		nofound 524108981
+	}
+	Item
+	{
+		displaynamefrommodel ARMYTRAILER
+		modelname 11
+		nofound 3087536137
+	}
+	Item
+	{
+		displaynamefrommodel ARMYTRAILER
+		modelname 11
+		nofound 2818520053
+	}
+	Item
+	{
+		displaynamefrommodel ARMYTRAILER
+		modelname 11
+		nofound 2657817814
+	}
+	Item
+	{
+		displaynamefrommodel FREIGHTTRAI
+		modelname 11
+		nofound 3517691494
+	}
+	Item
+	{
+		displaynamefrommodel BLIMP
+		modelname 16
+		nofound 4143991942
+	}
+	Item
+	{
+		displaynamefrommodel POLICET
+		modelname 18
+		nofound 456714581
+	}
+	Item
+	{
+		displaynamefrommodel CABLECAR
+		modelname 21
+		nofound 3334677549
+	}
+	Item
+	{
+		displaynamefrommodel FBI
+		modelname 18
+		nofound 1127131465
+	}
+	Item
+	{
+		displaynamefrommodel FBI2
+		modelname 18
+		nofound 2647026068
+	}
+	Item
+	{
+		displaynamefrommodel CRUSADER
+		modelname 19
+		nofound 321739290
+	}
+	Item
+	{
+		displaynamefrommodel POLICE
+		modelname 18
+		nofound 2046537925
+	}
+	Item
+	{
+		displaynamefrommodel POLICE4
+		modelname 18
+		nofound 2321795001
+	}
+	Item
+	{
+		displaynamefrommodel POLICE2
+		modelname 18
+		nofound 2667966721
+	}
+	Item
+	{
+		displaynamefrommodel POLICE
+		modelname 18
+		nofound 1912215274
+	}
+	Item
+	{
+		displaynamefrommodel POLICEO1
+		modelname 18
+		nofound 2758042359
+	}
+	Item
+	{
+		displaynamefrommodel POLICEO2
+		modelname 18
+		nofound 2515846680
+	}
+	Item
+	{
+		displaynamefrommodel PRANGER
+		modelname 18
+		nofound 741586030
+	}
+	Item
+	{
+		displaynamefrommodel proptrailer
+		modelname 11
+		nofound 356391690
+	}
+	Item
+	{
+		displaynamefrommodel SHERIFF
+		modelname 18
+		nofound 2611638396
+	}
+	Item
+	{
+		displaynamefrommodel SHERIFF2
+		modelname 18
+		nofound 1922257928
+	}
+	Item
+	{
+		displaynamefrommodel GRAINTRAILE
+		modelname 11
+		nofound 1019737494
+	}
+	Item
+	{
+		displaynamefrommodel BALETRAILER
+		modelname 11
+		nofound 3895125590
+	}
+	Item
+	{
+		displaynamefrommodel POLICEB
+		modelname 18
+		nofound 4260343491
+	}
+	Item
+	{
+		displaynamefrommodel ANNIHL
+		modelname 15
+		nofound 837858166
+	}
+	Item
+	{
+		displaynamefrommodel BUZZARD
+		modelname 15
+		nofound 788747387
+	}
+	Item
+	{
+		displaynamefrommodel BUZZARD2
+		modelname 15
+		nofound 745926877
+	}
+	Item
+	{
+		displaynamefrommodel CARGOBOB
+		modelname 15
+		nofound 4244420235
+	}
+	Item
+	{
+		displaynamefrommodel CARGOBOB
+		modelname 15
+		nofound 1621617168
+	}
+	Item
+	{
+		displaynamefrommodel CARGOBOB
+		modelname 15
+		nofound 1394036463
+	}
+	Item
+	{
+		displaynamefrommodel SKYLIFT
+		modelname 15
+		nofound 1044954915
+	}
+	Item
+	{
+		displaynamefrommodel POLMAV
+		modelname 15
+		nofound 353883353
+	}
+	Item
+	{
+		displaynamefrommodel MAVERICK
+		modelname 15
+		nofound 2634305738
+	}
+	Item
+	{
+		displaynamefrommodel FROGGER
+		modelname 15
+		nofound 744705981
+	}
+	Item
+	{
+		displaynamefrommodel FROGGER
+		modelname 15
+		nofound 1949211328
+	}
+	Item
+	{
+		displaynamefrommodel CUBAN800
+		modelname 16
+		nofound 3650256867
+	}
+	Item
+	{
+		displaynamefrommodel DUSTER
+		modelname 16
+		nofound 970356638
+	}
+	Item
+	{
+		displaynamefrommodel STUNT
+		modelname 16
+		nofound 2172210288
+	}
+	Item
+	{
+		displaynamefrommodel MAMMATUS
+		modelname 16
+		nofound 2548391185
+	}
+	Item
+	{
+		displaynamefrommodel JET
+		modelname 16
+		nofound 1058115860
+	}
+	Item
+	{
+		displaynamefrommodel SHAMAL
+		modelname 16
+		nofound 3080461301
+	}
+	Item
+	{
+		displaynamefrommodel LUXOR
+		modelname 16
+		nofound 621481054
+	}
+	Item
+	{
+		displaynamefrommodel TITAN
+		modelname 16
+		nofound 1981688531
+	}
+	Item
+	{
+		displaynamefrommodel LAZER
+		modelname 16
+		nofound 3013282534
+	}
+	Item
+	{
+		displaynamefrommodel CARGOPL
+		modelname 16
+		nofound 368211810
+	}
+	Item
+	{
+		displaynamefrommodel SQUALO
+		modelname 14
+		nofound 400514754
+	}
+	Item
+	{
+		displaynamefrommodel MARQUIS
+		modelname 14
+		nofound 3251507587
+	}
+	Item
+	{
+		displaynamefrommodel DINGHY
+		modelname 14
+		nofound 1033245328
+	}
+	Item
+	{
+		displaynamefrommodel DINGHY
+		modelname 14
+		nofound 276773164
+	}
+	Item
+	{
+		displaynamefrommodel JETMAX
+		modelname 14
+		nofound 861409633
+	}
+	Item
+	{
+		displaynamefrommodel PREDATOR
+		modelname 14
+		nofound 3806844075
+	}
+	Item
+	{
+		displaynamefrommodel TROPIC
+		modelname 14
+		nofound 290013743
+	}
+	Item
+	{
+		displaynamefrommodel SEASHARK
+		modelname 14
+		nofound 3264692260
+	}
+	Item
+	{
+		displaynamefrommodel SEASHARK
+		modelname 14
+		nofound 3678636260
+	}
+	Item
+	{
+		displaynamefrommodel SUBMERS
+		modelname 14
+		nofound 771711535
+	}
+	Item
+	{
+		displaynamefrommodel FREIGHT
+		modelname 21
+		nofound 184361638
+	}
+	Item
+	{
+		displaynamefrommodel FREIGHT
+		modelname 21
+		nofound 1030400667
+	}
+	Item
+	{
+		displaynamefrommodel FREIGHT
+		modelname 21
+		nofound 920453016
+	}
+	Item
+	{
+		displaynamefrommodel FREIGHT
+		modelname 21
+		nofound 240201337
+	}
+	Item
+	{
+		displaynamefrommodel FREIGHT
+		modelname 21
+		nofound 642617954
+	}
+	Item
+	{
+		displaynamefrommodel FREIGHT
+		modelname 21
+		nofound 586013744
+	}
+	Item
+	{
+		displaynamefrommodel FREIGHT
+		modelname 21
+		nofound 868868440
+	}
+	Item
+	{
+		displaynamefrommodel DOCKTRAILER
+		modelname 11
+		nofound 2154757102
+	}
+	Item
+	{
+		displaynamefrommodel TRAILER
+		modelname 11
+		nofound 3417488910
+	}
+	Item
+	{
+		displaynamefrommodel TRAILER
+		modelname 11
+		nofound 2715434129
+	}
+	Item
+	{
+		displaynamefrommodel TRAILERS3
+		modelname 11
+		nofound 2236089197
+	}
+	Item
+	{
+		displaynamefrommodel TRAILER
+		modelname 11
+		nofound 2524324030
+	}
+	Item
+	{
+		displaynamefrommodel TRAILER
+		modelname 11
+		nofound 390902130
+	}
+	Item
+	{
+		displaynamefrommodel TRAILER
+		modelname 11
+		nofound 3564062519
+	}
+	Item
+	{
+		displaynamefrommodel TRAILER
+		modelname 11
+		nofound 2016027501
+	}
+	Item
+	{
+		displaynamefrommodel TRAILER
+		modelname 11
+		nofound 2078290630
+	}
+	Item
+	{
+		displaynamefrommodel TRAILER
+		modelname 11
+		nofound 1784254509
+	}
+	Item
+	{
+		displaynamefrommodel TRAILER
+		modelname 11
+		nofound 2091594960
+	}
+	Item
+	{
+		displaynamefrommodel TRAILER
+		modelname 11
+		nofound 2942498482
+	}
+	Item
+	{
+		displaynamefrommodel TRAILER
+		modelname 11
+		nofound 712162987
+	}
+	Item
+	{
+		displaynamefrommodel VELUM
+		modelname 16
+		nofound 2621610858
+	}
+	Item
+	{
+		displaynamefrommodel SUNTRAP
+		modelname 14
+		nofound 4012021193
+	}
+	Item
+	{
+		displaynamefrommodel SPEEDER
+		modelname 14
+		nofound 231083307
+	}
+	Item
+	{
+		displaynamefrommodel VESTRA
+		modelname 16
+		nofound 1341619767
+	}
+	Item
+	{
+		displaynamefrommodel MILJET
+		modelname 16
+		nofound 165154707
+	}
+	Item
+	{
+		displaynamefrommodel BESRA
+		modelname 16
+		nofound 1824333165
+	}
+	Item
+	{
+		displaynamefrommodel SWIFT
+		modelname 15
+		nofound 3955379698
+	}
+	Item
+	{
+		displaynamefrommodel SUBMERS2
+		modelname 14
+		nofound 3228633070
+	}
+	Item
+	{
+		displaynamefrommodel DODO
+		modelname 16
+		nofound 3393804037
+	}
+	Item
+	{
+		displaynamefrommodel BLIMP2
+		modelname 16
+		nofound 3681241380
+	}
+	Item
+	{
+		displaynamefrommodel VELUM2
+		modelname 16
+		nofound 1077420264
+	}
+	Item
+	{
+		displaynamefrommodel TANKER
+		modelname 11
+		nofound 1956216962
+	}
+	Item
+	{
+		displaynamefrommodel HYDRA
+		modelname 16
+		nofound 970385471
+	}
+	Item
+	{
+		displaynamefrommodel DINGHY
+		modelname 14
+		nofound 509498602
+	}
+	Item
+	{
+		displaynamefrommodel SAVAGE
+		modelname 15
+		nofound 4212341271
+	}
+	Item
+	{
+		displaynamefrommodel VALKYRIE
+		modelname 15
+		nofound 2694714877
+	}
+	Item
+	{
+		displaynamefrommodel SWIFT2
+		modelname 15
+		nofound 1075432268
+	}
+	Item
+	{
+		displaynamefrommodel LUXOR2
+		modelname 16
+		nofound 3080673438
+	}
+	Item
+	{
+		displaynamefrommodel TORO
+		modelname 14
+		nofound 1070967343
+	}
+	Item
+	{
+		displaynamefrommodel TORO
+		modelname 14
+		nofound 908897389
+	}
+	Item
+	{
+		displaynamefrommodel SEASHARK
+		modelname 14
+		nofound 3983945033
+	}
+	Item
+	{
+		displaynamefrommodel DINGHY
+		modelname 14
+		nofound 867467158
+	}
+	Item
+	{
+		displaynamefrommodel TROPIC
+		modelname 14
+		nofound 1448677353
+	}
+	Item
+	{
+		displaynamefrommodel SPEEDER
+		modelname 14
+		nofound 437538602
+	}
+	Item
+	{
+		displaynamefrommodel CARGOBOB
+		modelname 15
+		nofound 2025593404
+	}
+	Item
+	{
+		displaynamefrommodel SVOLITO
+		modelname 15
+		nofound 710198397
+	}
+	Item
+	{
+		displaynamefrommodel SVOLITO2
+		modelname 15
+		nofound 2623428164
+	}
+	Item
+	{
+		displaynamefrommodel VALKYRI2
+		modelname 15
+		nofound 1543134283
+	}
+	Item
+	{
+		displaynamefrommodel NIMBUS
+		modelname 16
+		nofound 2999939664
+	}
+	Item
+	{
+		displaynamefrommodel VOLATUS
+		modelname 15
+		nofound 2449479409
+	}
+	Item
+	{
+		displaynamefrommodel TUG
+		modelname 14
+		nofound 2194326579
+	}
+	Item
+	{
+		displaynamefrommodel TRAILER
+		modelname 11
+		nofound 3194418602
+	}
+	Item
+	{
+		displaynamefrommodel TRLARGE
+		modelname 11
+		nofound 1502869817
+	}
+	Item
+	{
+		displaynamefrommodel TRSMALL2
+		modelname 19
+		nofound 2413121211
+	}
+	Item
+	{
+		displaynamefrommodel VOLATOL
+		modelname 16
+		nofound 447548909
+	}
+	Item
+	{
+		displaynamefrommodel AKULA
+		modelname 15
+		nofound 1181327175
+	}
+	Item
+	{
+		displaynamefrommodel AVENGER
+		modelname 16
+		nofound 2176659152
+	}
+	Item
+	{
+		displaynamefrommodel AVENGER
+		modelname 16
+		nofound 408970549
+	}
+	Item
+	{
+		displaynamefrommodel THRUSTER
+		modelname 19
+		nofound 1489874736
+	}
+	Item
+	{
+		displaynamefrommodel BOMBUSHKA
+		modelname 16
+		nofound 4262088844
+	}
+	Item
+	{
+		displaynamefrommodel ALPHAZ1
+		modelname 16
+		nofound 2771347558
+	}
+	Item
+	{
+		displaynamefrommodel SEABREEZE
+		modelname 16
+		nofound 3902291871
+	}
+	Item
+	{
+		displaynamefrommodel TULA
+		modelname 16
+		nofound 1043222410
+	}
+	Item
+	{
+		displaynamefrommodel HAVOK
+		modelname 15
+		nofound 2310691317
+	}
+	Item
+	{
+		displaynamefrommodel HUNTER
+		modelname 15
+		nofound 4252008158
+	}
+	Item
+	{
+		displaynamefrommodel microlight
+		modelname 16
+		nofound 2531412055
+	}
+	Item
+	{
+		displaynamefrommodel ROGUE
+		modelname 16
+		nofound 3319621991
+	}
+	Item
+	{
+		displaynamefrommodel PYRO
+		modelname 16
+		nofound 2908775872
+	}
+	Item
+	{
+		displaynamefrommodel HOWARD
+		modelname 16
+		nofound 3287439187
+	}
+	Item
+	{
+		displaynamefrommodel MOGUL
+		modelname 16
+		nofound 3545667823
+	}
+	Item
+	{
+		displaynamefrommodel STARLING
+		modelname 16
+		nofound 2594093022
+	}
+	Item
+	{
+		displaynamefrommodel NOKOTA
+		modelname 16
+		nofound 1036591958
+	}
+	Item
+	{
+		displaynamefrommodel MOLOTOK
+		modelname 16
+		nofound 1565978651
+	}
+}
+Total:
+nofound(1565978651):1
+nofound(2667966721):1
+nofound(1956216962):1
+nofound(3251507587):1
+nofound(1036591958):1
+nofound(3393804037):1
+nofound(4143991942):1
+nofound(2594093022):1
+nofound(1922257928):1
+nofound(3087536137):1
+nofound(356391690):1
+nofound(4244420235):1
+nofound(4262088844):1
+nofound(3545667823):1
+nofound(3417488910):1
+nofound(3287439187):1
+nofound(1033245328):1
+nofound(2548391185):1
+nofound(2908775872):1
+nofound(165154707):1
+nofound(1058115860):1
+nofound(712162987):1
+nofound(1019737494):1
+nofound(4212341271):1
+nofound(2515846680):1
+nofound(3228633070):1
+nofound(321739290):1
+nofound(1030400667):1
+nofound(4252008158):1
+nofound(2310691317):1
+nofound(970356638):1
+nofound(3902291871):1
+nofound(1043222410):1
+nofound(2771347558):1
+nofound(1489874736):1
+nofound(1044954915):1
+nofound(3264692260):1
+nofound(408970549):1
+nofound(184361638):1
+nofound(2176659152):1
+nofound(867467158):1
+nofound(447548909):1
+nofound(437538602):1
+nofound(3806844075):1
+nofound(276773164):1
+nofound(3334677549):1
+nofound(2016027501):1
+nofound(290013743):1
+nofound(586013744):1
+nofound(1502869817):1
+nofound(2942498482):1
+nofound(2194326579):1
+nofound(3194418602):1
+nofound(524108981):1
+nofound(642617954):1
+nofound(3564062519):1
+nofound(2999939664):1
+nofound(2321795001):1
+nofound(908897389):1
+nofound(2413121211):1
+nofound(2025593404):1
+nofound(744705981):1
+nofound(2524324030):1
+nofound(970385471):1
+nofound(1949211328):1
+nofound(710198397):1
+nofound(400514754):1
+nofound(4260343491):1
+nofound(2623428164):1
+nofound(2046537925):1
+nofound(2078290630):1
+nofound(1181327175):1
+nofound(3983945033):1
+nofound(1127131465):1
+nofound(2634305738):1
+nofound(1543134283):1
+nofound(1075432268):1
+nofound(1070967343):1
+nofound(3080673438):1
+nofound(771711535):1
+nofound(2091594960):1
+nofound(509498602):1
+nofound(1784254509):1
+nofound(1981688531):1
+nofound(3681241380):1
+nofound(456714581):1
+nofound(3895125590):1
+nofound(2531412055):1
+nofound(868868440):1
+nofound(353883353):1
+nofound(3955379698):1
+nofound(1824333165):1
+nofound(1341619767):1
+nofound(745926877):1
+nofound(621481054):1
+nofound(231083307):1
+nofound(4012021193):1
+nofound(861409633):1
+nofound(368211810):1
+nofound(3650256867):1
+nofound(3678636260):1
+nofound(2621610858):1
+nofound(3517691494):1
+nofound(3319621991):1
+nofound(1077420264):1
+nofound(1448677353):1
+nofound(1912215274):1
+nofound(2154757102):1
+nofound(2715434129):1
+nofound(2236089197):1
+nofound(741586030):1
+nofound(1394036463):1
+nofound(2172210288):1
+nofound(2449479409):1
+nofound(390902130):1
+nofound(2647026068):1
+nofound(1621617168):1
+nofound(2818520053):1
+nofound(837858166):1
+nofound(2758042359):1
+nofound(920453016):1
+nofound(240201337):1
+nofound(2657817814):1
+nofound(788747387):1
+nofound(2611638396):1
+nofound(2694714877):1
+nofound(3013282534):1
+nofound(3080461301):1
