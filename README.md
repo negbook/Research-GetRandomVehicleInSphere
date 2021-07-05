@@ -38,8 +38,9 @@ entity = GetRandomVehicleInSphere( x,y,z, radius , 0 , 2 )
 want to get all car , bike and bicycle without polices:  supported player is in  
 entity = GetRandomVehicleInSphere( x,y,z, radius , 0 , 94 )   
 
-want to get all planes :  not supported player is in 
+want to get all planes :  not supported player is in  
 entity = GetRandomVehicleInSphere( x,y,z, radius , 0 , 16390 )   
+
 want to get all planes , helis:  supported player is in  
 entity = GetRandomVehicleInSphere( x,y,z, radius , 0 , 20503 )   
 
