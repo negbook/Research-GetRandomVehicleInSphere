@@ -1,0 +1,125 @@
+Version 1 30 Research Title : GetRandomVehicleInSphere flags results By Negbook
+Total:5 Flags:-1 
+{
+	Item
+	{
+		IsThisModelABike 0
+		IsThisModelAHeli 1
+		isempty 1
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		poptype 7
+		IsThisModelATrain 0
+		IsThisModelABicycle 0
+		IsThisModelABoat 0
+		IsThisModelAQuadbike 0
+		IsThisModelAJetski 0
+		IsThisModelACar 0
+		model 837858166
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		class 15
+		type 2
+		displaynamefrommodel ANNIHL
+		classfromname 15
+	}
+	Item
+	{
+		IsThisModelABike 0
+		IsThisModelAHeli 1
+		isempty 1
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		poptype 7
+		IsThisModelATrain 0
+		IsThisModelABicycle 0
+		IsThisModelABoat 0
+		IsThisModelAQuadbike 0
+		IsThisModelAJetski 0
+		IsThisModelACar 0
+		model 353883353
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		class 15
+		type 2
+		displaynamefrommodel POLMAV
+		classfromname 15
+	}
+	Item
+	{
+		IsThisModelABike 0
+		IsThisModelAHeli 0
+		isempty 1
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		poptype 7
+		IsThisModelATrain 0
+		IsThisModelABicycle 0
+		IsThisModelABoat 1
+		IsThisModelAQuadbike 0
+		IsThisModelAJetski 0
+		IsThisModelACar 0
+		model -488123221
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 1
+		class 14
+		type 2
+		displaynamefrommodel PREDATOR
+		classfromname 14
+	}
+	Item
+	{
+		IsThisModelABike 0
+		IsThisModelAHeli 1
+		isempty 1
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		poptype 7
+		IsThisModelATrain 0
+		IsThisModelABicycle 0
+		IsThisModelABoat 0
+		IsThisModelAQuadbike 0
+		IsThisModelAJetski 0
+		IsThisModelACar 0
+		model -1600252419
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		class 15
+		type 2
+		displaynamefrommodel VALKYRIE
+		classfromname 15
+	}
+	Item
+	{
+		IsThisModelABike 0
+		IsThisModelAHeli 1
+		isempty 1
+		IsThisModelAPlane 0
+		IsThisModelAnAmphibiousCar 0
+		poptype 7
+		IsThisModelATrain 0
+		IsThisModelABicycle 0
+		IsThisModelABoat 0
+		IsThisModelAQuadbike 0
+		IsThisModelAJetski 0
+		IsThisModelACar 0
+		model 1543134283
+		IsThisModelAnAmphibiousQuadbike 0
+		isenginerunning 0
+		class 15
+		type 2
+		displaynamefrommodel VALKYRI2
+		classfromname 15
+	}
+}
+Total 5:
+poptype(7):5
+IsThisModelAHeli(1):4
+classfromname(14):1
+classfromname(15):4
+isempty(1):5
+class(14):1
+class(15):4
+isenginerunning(1):1
+IsThisModelABoat(1):1
+type(2):5
