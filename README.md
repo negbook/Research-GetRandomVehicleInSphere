@@ -6,7 +6,7 @@ Class                       Flags
 20                          :2,6,7,94  
 0~13                       :2,4,7,94  
 
-0 only find some police
+0 only find some police  
 2 same as 6,94.maybe perfer to hit some classes.forexample 6 is perfer to find service car like taxi.   no plane no train no heli  
 7 finds more than 2.which finds FBI/POLICE/SHERIFF s  . no plane no train no heli  
 -1 only find (4 police helis and 1 police boat)  
